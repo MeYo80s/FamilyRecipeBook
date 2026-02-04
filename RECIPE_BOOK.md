@@ -18,6 +18,7 @@ A collection of our favorite family recipes and stories.
 **Serves/Yield:** About 24 bars  
 **Prep time:** 25 min  
 **Cook time:** 15-20 min
+**Estimated macros:** ~340 cal | 5g protein | 17g fat | 45g carbs (per bar)
 
 ### Ingredients
 - 1 cup butter (2 sticks), room temperature
