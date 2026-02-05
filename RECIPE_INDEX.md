@@ -9,6 +9,7 @@ Add your recipes to the category sections below.
 - [Chicken Balsamico](recipes/mains/chicken-balsamico.md)
 - [Fettuccine Alfredo](recipes/mains/fettuccine-alfredo.md)
 - [Mom's Roast](recipes/mains/moms-roast.md)
+- [Mom's Potato Pea Soup](recipes/mains/moms-potato-pea-soup.md)
 
 ## Sides
 - [Easy Brazilian Cheese Bread (Pão de Queijo)](recipes/sides/easy-brazilian-cheese-bread-pao-de-queijo.md)

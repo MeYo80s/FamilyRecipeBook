@@ -7,9 +7,9 @@ A collection of our favorite family recipes and stories.
 
 | Category | Category |
 | --- | --- |
-| **Breakfast**<br>[1) Pudding Toast](#1-pudding-toast) | **Mains**<br>[2) Chicken Balsamico](#2-chicken-balsamico)<br>[3) Fettuccine Alfredo](#3-fettuccine-alfredo)<br>[4) Mom's Roast](#4-mom-s-roast) |
-| **Sides**<br>[5) Easy Brazilian Cheese Bread (Pão de Queijo)](#5-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[6) Thai Pasta Salad](#6-thai-pasta-salad) | **Desserts**<br>[7) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#7-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars) |
-| **Holiday**<br>[8) Lemon Cheese Braid Bread](#8-lemon-cheese-braid-bread) |  |
+| **Breakfast**<br>[1) Pudding Toast](#1-pudding-toast) | **Mains**<br>[2) Chicken Balsamico](#2-chicken-balsamico)<br>[3) Fettuccine Alfredo](#3-fettuccine-alfredo)<br>[4) Mom's Roast](#4-mom-s-roast)<br>[5) Mom's Potato Pea Soup](#5-mom-s-potato-pea-soup) |
+| **Sides**<br>[6) Easy Brazilian Cheese Bread (Pão de Queijo)](#6-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[7) Thai Pasta Salad](#7-thai-pasta-salad) | **Desserts**<br>[8) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#8-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars) |
+| **Holiday**<br>[9) Lemon Cheese Braid Bread](#9-lemon-cheese-braid-bread) |  |
 
 ## How to Use This Book
 - Add/edit recipes in `recipes/`.
@@ -149,7 +149,38 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 5) Easy Brazilian Cheese Bread (Pão de Queijo)
+## 5) Mom's Potato Pea Soup
+**Recipe Owner:** Kathy  
+**Serves/Yield:** 6 servings  
+**Prep time:** 15 min  
+**Cook time:** 30 min  
+**Estimated macros:** Not calculated
+
+### Ingredients
+- 1 onion, diced
+- 2-3 celery stalks, diced
+- Potatoes, peeled and diced (about 2 lb)
+- Water (enough to cover potatoes)
+- 4 tbsp butter
+- 1/4 cup flour
+- 2 cups milk
+- Salt, to taste
+- Pepper, to taste
+- 1-2 cups frozen peas
+
+### Instructions
+1. In a large pot, combine onion, celery, and potatoes. Add enough water to just cover the potatoes.
+2. Bring to a boil, then simmer until the potatoes are tender.
+3. Make a white sauce: melt butter in a saucepan, whisk in flour, then slowly whisk in milk. Season with salt and pepper and cook until thickened.
+4. Pour the white sauce into the potato mixture without draining the cooking water. Stir to combine.
+5. Add frozen peas and cook until heated through. Season to taste and serve.
+
+### Family Notes
+- Keep the potato cooking water in the pot; it helps the soup thicken.
+
+---
+
+## 6) Easy Brazilian Cheese Bread (Pão de Queijo)
 **Recipe Owner:** Charlene  
 **Serves/Yield:** 6-8 servings (12 to 18 mini cheese breads)  
 **Prep time:** 5 min  
@@ -179,7 +210,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 6) Thai Pasta Salad
+## 7) Thai Pasta Salad
 ![Thai Pasta Salad](assets/recipes/thai-pasta-salad.png)
 
 **Recipe Owner:** Jessica and B Cooley  
@@ -215,7 +246,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 7) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
+## 8) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
 ![Chocolate-Frosted Peanut Butter Cookie Bars](assets/recipes/chocolate-frosted-peanut-butter-cookie-bars.png)
 
 **Recipe Owner:** Kristine  
@@ -263,7 +294,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 8) Lemon Cheese Braid Bread
+## 9) Lemon Cheese Braid Bread
 ![Lemon Cheese Braid Bread](assets/recipes/lemon-cheese-braid-bread.png)
 
 **Recipe Owner:** Kristine  
