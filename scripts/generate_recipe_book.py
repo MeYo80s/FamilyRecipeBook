@@ -86,16 +86,29 @@ def main() -> None:
         "- [How to Use This Book](#how-to-use-this-book)",
     ]
 
-    for section_title, section_entries in toc_sections:
-        lines.extend([
-            "",
-            f"### {section_title}",
-        ])
+    lines.append("")
+    lines.append("| Category | Category |")
+    lines.append("| --- | --- |")
+
+    def format_cell(section_title: str, section_entries: list[tuple[int, str]]) -> str:
+        parts = [f"**{section_title}**"]
         if not section_entries:
-            lines.append("- _Coming soon_")
-            continue
-        for number, title in section_entries:
-            lines.append(f"- [{number}) {title}](#{number}-{slugify(title)})")
+            parts.append("_Coming soon_")
+            return "<br>".join(parts)
+        parts.extend(
+            f"[{number}) {title}](#{number}-{slugify(title)})"
+            for number, title in section_entries
+        )
+        return "<br>".join(parts)
+
+    for i in range(0, len(toc_sections), 2):
+        left_title, left_entries = toc_sections[i]
+        left_cell = format_cell(left_title, left_entries)
+        right_cell = ""
+        if i + 1 < len(toc_sections):
+            right_title, right_entries = toc_sections[i + 1]
+            right_cell = format_cell(right_title, right_entries)
+        lines.append(f"| {left_cell} | {right_cell} |")
 
     lines.extend([
         "",
