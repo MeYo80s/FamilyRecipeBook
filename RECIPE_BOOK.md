@@ -6,7 +6,7 @@ A collection of our favorite family recipes and stories.
 - [How to Use This Book](#how-to-use-this-book)
 - [1) Fettuccine Alfredo](#1-fettuccine-alfredo)
 - [2) Thai Pasta Salad](#2-thai-pasta-salad)
-- [3) Chocolate-Frosted Peanut Butter Cookie Bars](#3-chocolate-frosted-peanut-butter-cookie-bars)
+- [3) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#3-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)
 
 ## How to Use This Book
 - Add/edit recipes in `recipes/`.
@@ -45,6 +45,7 @@ A collection of our favorite family recipes and stories.
 ### Family Notes
 - Ree Drummond recipe.
 - Kristine likes to add a little garlic powder and a pinch of nutmeg.
+- Good with rotisserrie chicken added at the end. Can also saute mushrooms in butter if preferred.
 
 ---
 
@@ -84,7 +85,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 3) Chocolate-Frosted Peanut Butter Cookie Bars
+## 3) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
 **Recipe Owner:** Kristine  
 **Serves/Yield:** About 24 bars  
 **Prep time:** 25 min  

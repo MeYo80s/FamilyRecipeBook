@@ -11,6 +11,6 @@ Add your recipes to the category sections below.
 - [Thai Pasta Salad](recipes/sides/thai-pasta-salad.md)
 
 ## Desserts
-- [Chocolate-Frosted Peanut Butter Cookie Bars](recipes/desserts/chocolate-frosted-peanut-butter-cookie-bars.md)
+- [Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](recipes/desserts/chocolate-frosted-peanut-butter-cookie-bars.md)
 
 ## Holiday

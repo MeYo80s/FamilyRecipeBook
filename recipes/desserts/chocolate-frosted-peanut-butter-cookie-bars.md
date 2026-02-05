@@ -1,4 +1,4 @@
-# Chocolate-Frosted Peanut Butter Cookie Bars
+# Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
 
 **Recipe Owner:** Kristine  
 **Serves/Yield:** About 24 bars  
