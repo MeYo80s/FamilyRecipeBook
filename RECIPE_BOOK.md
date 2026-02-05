@@ -4,13 +4,25 @@ A collection of our favorite family recipes and stories.
 
 ## Table of Contents
 - [How to Use This Book](#how-to-use-this-book)
+
+### Breakfast
+- _Coming soon_
+
+### Mains
 - [1) Chicken Balsamico](#1-chicken-balsamico)
 - [2) Fettuccine Alfredo](#2-fettuccine-alfredo)
-- [3) Easy Brazilian Cheese Bread (Pão de Queijo)](#3-easy-brazilian-cheese-bread-p-o-de-queijo)
-- [4) Thai Pasta Salad](#4-thai-pasta-salad)
-- [5) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#5-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)
-- [6) Pudding Toast](#6-pudding-toast)
-- [7) Lemon Cheese Braid Bread](#7-lemon-cheese-braid-bread)
+- [3) Mom's Roast](#3-mom-s-roast)
+
+### Sides
+- [4) Easy Brazilian Cheese Bread (Pão de Queijo)](#4-easy-brazilian-cheese-bread-p-o-de-queijo)
+- [5) Thai Pasta Salad](#5-thai-pasta-salad)
+
+### Desserts
+- [6) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#6-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)
+- [7) Pudding Toast](#7-pudding-toast)
+
+### Holiday
+- [8) Lemon Cheese Braid Bread](#8-lemon-cheese-braid-bread)
 
 ## How to Use This Book
 - Add/edit recipes in `recipes/`.
@@ -92,7 +104,32 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 3) Easy Brazilian Cheese Bread (Pão de Queijo)
+## 3) Mom's Roast
+**Recipe Owner:** Mom  
+**Serves/Yield:** 6-8 servings (depending on roast size)  
+**Prep time:** 10 min  
+**Cook time:** 3 hours 30 min  
+**Estimated macros:** Not calculated
+
+### Ingredients
+- 1 onion
+- 1 beef roast
+- Salt, to taste
+- Garlic powder, to taste
+- Pepper, to taste
+
+### Instructions
+1. Heat oven to 325°F.
+2. Place the onion in a roasting pan and add the beef roast.
+3. Season the roast generously with salt, garlic powder, and pepper.
+4. Roast for about 3 1/2 hours, until the fat has melted, the roast is browned, and it is very tender.
+
+### Family Notes
+- Low and slow (3 1/2 hours at 325°F) makes the roast more tender.
+
+---
+
+## 4) Easy Brazilian Cheese Bread (Pão de Queijo)
 **Recipe Owner:** Charlene  
 **Serves/Yield:** 6-8 servings (12 to 18 mini cheese breads)  
 **Prep time:** 5 min  
@@ -122,7 +159,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 4) Thai Pasta Salad
+## 5) Thai Pasta Salad
 ![Thai Pasta Salad](assets/recipes/thai-pasta-salad.png)
 
 **Recipe Owner:** Jessica and B Cooley  
@@ -158,7 +195,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 5) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
+## 6) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
 ![Chocolate-Frosted Peanut Butter Cookie Bars](assets/recipes/chocolate-frosted-peanut-butter-cookie-bars.png)
 
 **Recipe Owner:** Kristine  
@@ -206,7 +243,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 6) Pudding Toast
+## 7) Pudding Toast
 **Recipe Owner:** Grandma Lewis  
 **Serves/Yield:** 4 servings  
 **Prep time:** 10 min  
@@ -239,7 +276,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 7) Lemon Cheese Braid Bread
+## 8) Lemon Cheese Braid Bread
 ![Lemon Cheese Braid Bread](assets/recipes/lemon-cheese-braid-bread.png)
 
 **Recipe Owner:** Kristine  

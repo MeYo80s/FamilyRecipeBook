@@ -15,13 +15,18 @@ def slugify(text: str) -> str:
     return text.strip("-")
 
 
-def parse_index_paths(index_text: str) -> list[Path]:
-    paths: list[Path] = []
+def parse_index_sections(index_text: str) -> list[dict[str, list[Path] | str]]:
+    sections: list[dict[str, list[Path] | str]] = []
+    current: dict[str, list[Path] | str] | None = None
     for line in index_text.splitlines():
+        if line.startswith("## "):
+            current = {"title": line[3:].strip(), "paths": []}
+            sections.append(current)
+            continue
         m = re.search(r"\((recipes/[^)]+\.md)\)", line)
-        if m:
-            paths.append(ROOT / m.group(1))
-    return paths
+        if m and current is not None:
+            current["paths"].append(ROOT / m.group(1))
+    return sections
 
 
 def read_recipe(path: Path) -> tuple[str, str]:
@@ -56,8 +61,21 @@ def fix_links(body: str, recipe_path: Path) -> str:
 
 def main() -> None:
     idx = INDEX.read_text(encoding="utf-8")
-    recipe_paths = [p for p in parse_index_paths(idx) if p.exists()]
-    recipes = [read_recipe(p) for p in recipe_paths]
+    sections = parse_index_sections(idx)
+    recipes: list[tuple[str, str]] = []
+    toc_sections: list[tuple[str, list[tuple[int, str]]]] = []
+    counter = 1
+    for section in sections:
+        section_title = str(section["title"])
+        section_entries: list[tuple[int, str]] = []
+        for path in section["paths"]:
+            if not path.exists():
+                continue
+            title, body = read_recipe(path)
+            recipes.append((title, body))
+            section_entries.append((counter, title))
+            counter += 1
+        toc_sections.append((section_title, section_entries))
 
     lines: list[str] = [
         "# Family Favorite Recipe Book",
@@ -68,8 +86,16 @@ def main() -> None:
         "- [How to Use This Book](#how-to-use-this-book)",
     ]
 
-    for i, (title, _) in enumerate(recipes, start=1):
-        lines.append(f"- [{i}) {title}](#{i}-{slugify(title)})")
+    for section_title, section_entries in toc_sections:
+        lines.extend([
+            "",
+            f"### {section_title}",
+        ])
+        if not section_entries:
+            lines.append("- _Coming soon_")
+            continue
+        for number, title in section_entries:
+            lines.append(f"- [{number}) {title}](#{number}-{slugify(title)})")
 
     lines.extend([
         "",
