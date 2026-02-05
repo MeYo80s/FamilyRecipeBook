@@ -1,6 +1,6 @@
-# Danish Bread Pudding (Grandma Lewis)
+# Pudding Toast
 
-**Recipe Owner:** Kathy  
+**Recipe Owner:** Grandma Lewis  
 **Serves/Yield:** 4-6 servings  
 **Prep time:** 10 min  
 **Cook time:** 5-8 min  

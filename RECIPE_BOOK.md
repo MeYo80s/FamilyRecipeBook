@@ -9,7 +9,7 @@ A collection of our favorite family recipes and stories.
 - [3) Easy Brazilian Cheese Bread (Pão de Queijo)](#3-easy-brazilian-cheese-bread-p-o-de-queijo)
 - [4) Thai Pasta Salad](#4-thai-pasta-salad)
 - [5) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#5-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)
-- [6) Danish Bread Pudding (Grandma Lewis)](#6-danish-bread-pudding-grandma-lewis)
+- [6) Pudding Toast](#6-pudding-toast)
 - [7) Lemon Cheese Braid Bread](#7-lemon-cheese-braid-bread)
 
 ## How to Use This Book
@@ -206,8 +206,8 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 6) Danish Bread Pudding (Grandma Lewis)
-**Recipe Owner:** Kathy  
+## 6) Pudding Toast
+**Recipe Owner:** Grandma Lewis  
 **Serves/Yield:** 4-6 servings  
 **Prep time:** 10 min  
 **Cook time:** 5-8 min  
