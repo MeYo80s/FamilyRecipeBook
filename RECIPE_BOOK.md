@@ -106,21 +106,21 @@ A collection of our favorite family recipes and stories.
 
 ## 3) Mom's Roast
 **Recipe Owner:** Mom  
-**Serves/Yield:** 6-8 servings (depending on roast size)  
+**Serves/Yield:** 10 servings  
 **Prep time:** 10 min  
 **Cook time:** 3 hours 30 min  
 **Estimated macros:** Not calculated
 
 ### Ingredients
 - 1 onion
-- 1 beef roast
+- 1 (3 lb) chuck roast
 - Salt, to taste
 - Garlic powder, to taste
 - Pepper, to taste
 
 ### Instructions
 1. Heat oven to 325°F.
-2. Place the onion in a roasting pan and add the beef roast.
+2. Place the onion in a roasting pan and add the chuck roast.
 3. Season the roast generously with salt, garlic powder, and pepper.
 4. Roast for about 3 1/2 hours, until the fat has melted, the roast is browned, and it is very tender.
 

@@ -1,7 +1,7 @@
 # Mom's Roast
 
 **Recipe Owner:** Mom  
-**Serves/Yield:** 6-8 servings  
+**Serves/Yield:** 10 servings  
 **Prep time:** 10 min  
 **Cook time:** 3 hours 30 min  
 **Estimated macros:** Not calculated
