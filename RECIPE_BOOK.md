@@ -208,10 +208,10 @@ A collection of our favorite family recipes and stories.
 
 ## 6) Pudding Toast
 **Recipe Owner:** Grandma Lewis  
-**Serves/Yield:** 4-6 servings  
+**Serves/Yield:** 4 servings  
 **Prep time:** 10 min  
 **Cook time:** 5-8 min  
-**Estimated macros:** ~200 cal | 4g protein | 6g fat | 31g carbs (per serving)
+**Estimated macros:** ~250 cal | 5g protein | 8g fat | 39g carbs (per serving)
 
 ### Ingredients
 **Pudding Base**
@@ -228,7 +228,7 @@ A collection of our favorite family recipes and stories.
 
 ### Instructions
 1. Mix cornstarch, sugar, and salt.
-2. Stir in milk and egg yolks until smooth.
+2. Stir in milk and egg yolk until smooth.
 3. Microwave 1 minute at a time, stirring between each minute, until thick pudding forms.
 4. Remove from microwave and stir in butter and vanilla.
 5. While pudding cooks, toast and butter bread; tear into small pieces.

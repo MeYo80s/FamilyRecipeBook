@@ -14,7 +14,7 @@ Add your recipes to the category sections below.
 
 ## Desserts
 - [Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](recipes/desserts/chocolate-frosted-peanut-butter-cookie-bars.md)
-- [Pudding Toast](recipes/desserts/danish-bread-pudding-grandma-lewis.md)
+- [Pudding Toast](recipes/breakfast/pudding-toast.md)
 
 ## Holiday
 - [Lemon Cheese Braid Bread](recipes/holiday/lemon-cheese-braid-bread.md)
