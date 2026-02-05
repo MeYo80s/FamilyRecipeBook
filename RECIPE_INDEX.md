@@ -5,6 +5,7 @@ Add your recipes to the category sections below.
 ## Breakfast
 
 ## Mains
+- [Fettuccine Alfredo](recipes/mains/fettuccine-alfredo.md)
 
 ## Sides
 - [Thai Pasta Salad](recipes/sides/thai-pasta-salad.md)

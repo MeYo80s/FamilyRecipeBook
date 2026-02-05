@@ -4,8 +4,9 @@ A collection of our favorite family recipes and stories.
 
 ## Table of Contents
 - [How to Use This Book](#how-to-use-this-book)
-- [1) Thai Pasta Salad](#1-thai-pasta-salad)
-- [2) Chocolate-Frosted Peanut Butter Cookie Bars](#2-chocolate-frosted-peanut-butter-cookie-bars)
+- [1) Fettuccine Alfredo](#1-fettuccine-alfredo)
+- [2) Thai Pasta Salad](#2-thai-pasta-salad)
+- [3) Chocolate-Frosted Peanut Butter Cookie Bars](#3-chocolate-frosted-peanut-butter-cookie-bars)
 
 ## How to Use This Book
 - Add/edit recipes in `recipes/`.
@@ -14,7 +15,40 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 1) Thai Pasta Salad
+## 1) Fettuccine Alfredo
+![Fettuccine Alfredo](assets/recipes/fettucine-alfredo.png)
+
+**Recipe Owner:** Kristine  
+**Serves/Yield:** About 6 servings  
+**Prep time:** 10 min  
+**Cook time:** 15 min  
+**Estimated macros:** ~700 cal | 23g protein | 40g fat | 59g carbs (per serving)
+
+### Ingredients
+- 1 lb fettuccine noodles
+- 1 stick butter
+- 1 cup heavy cream
+- Salt and freshly ground black pepper, to taste
+- 2 cups freshly grated Parmesan
+
+### Instructions
+1. Cook fettuccine according to package directions. Drain.
+2. In a saucepan or skillet over low heat, warm butter and heavy cream.
+3. Season with salt and black pepper.
+4. Put half of the Parmesan in a large serving bowl.
+5. Pour warm butter-cream mixture into the bowl.
+6. Add hot drained pasta and toss a couple of times.
+7. Sprinkle in remaining Parmesan and toss to combine.
+8. If needed, thin with a little reserved pasta water.
+9. Serve immediately.
+
+### Family Notes
+- Ree Drummond recipe.
+- Kristine likes to add a little garlic powder and a pinch of nutmeg.
+
+---
+
+## 2) Thai Pasta Salad
 ![Thai Pasta Salad](assets/recipes/thai-pasta-salad.png)
 
 **Recipe Owner:** Jessica and B Cooley  
@@ -50,7 +84,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 2) Chocolate-Frosted Peanut Butter Cookie Bars
+## 3) Chocolate-Frosted Peanut Butter Cookie Bars
 **Recipe Owner:** Kristine  
 **Serves/Yield:** About 24 bars  
 **Prep time:** 25 min  
