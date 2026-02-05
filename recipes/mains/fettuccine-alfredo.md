@@ -29,3 +29,4 @@
 ### Family Notes
 - Ree Drummond recipe.
 - Kristine likes to add a little garlic powder and a pinch of nutmeg.
+- Good with rotisserrie chicken added at the end. Can also saute mushrooms in butter if preferred.
