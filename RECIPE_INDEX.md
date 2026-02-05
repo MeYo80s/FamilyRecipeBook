@@ -9,6 +9,7 @@ Add your recipes to the category sections below.
 - [Fettuccine Alfredo](recipes/mains/fettuccine-alfredo.md)
 
 ## Sides
+- [Easy Brazilian Cheese Bread (Pão de Queijo)](recipes/sides/easy-brazilian-cheese-bread-pao-de-queijo.md)
 - [Thai Pasta Salad](recipes/sides/thai-pasta-salad.md)
 
 ## Desserts
