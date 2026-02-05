@@ -15,3 +15,4 @@ Add your recipes to the category sections below.
 - [Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](recipes/desserts/chocolate-frosted-peanut-butter-cookie-bars.md)
 
 ## Holiday
+- [Lemon Cheese Braid Bread](recipes/holiday/lemon-cheese-braid-bread.md)
