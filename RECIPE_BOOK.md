@@ -4,9 +4,10 @@ A collection of our favorite family recipes and stories.
 
 ## Table of Contents
 - [How to Use This Book](#how-to-use-this-book)
-- [1) Fettuccine Alfredo](#1-fettuccine-alfredo)
-- [2) Thai Pasta Salad](#2-thai-pasta-salad)
-- [3) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#3-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)
+- [1) Chicken Balsamico](#1-chicken-balsamico)
+- [2) Fettuccine Alfredo](#2-fettuccine-alfredo)
+- [3) Thai Pasta Salad](#3-thai-pasta-salad)
+- [4) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#4-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)
 
 ## How to Use This Book
 - Add/edit recipes in `recipes/`.
@@ -15,7 +16,44 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 1) Fettuccine Alfredo
+## 1) Chicken Balsamico
+**Recipe Owner:** Kristine  
+**Serves/Yield:** 4 servings  
+**Prep time:** 20 min  
+**Cook time:** 25 min  
+**Estimated macros:** ~760 cal | 55g protein | 28g fat | 67g carbs (per serving)
+
+### Ingredients
+- 2 cups flour
+- Salt and pepper, to taste
+- 1/3 cup olive oil
+- 4 (8 oz) chicken breasts, butterflied
+- 1 cup balsamic vinegar
+- 1/4 cup olive oil
+- 2 tsp fresh chopped garlic
+- 3 cups fresh baby leaf spinach
+- 1 cup diced Roma tomatoes
+- 10 oz angel hair pasta
+- 2 tbsp shredded Parmesan cheese
+
+### Instructions
+1. Season flour with salt and pepper.
+2. Cut each chicken breast in half to make medallions.
+3. Heat 1/3 cup olive oil in a saute pan.
+4. Dredge chicken in seasoned flour and saute until cooked through.
+5. Add balsamic vinegar and reduce around chicken until liquid is mostly gone.
+6. In another saute pan, heat 1/4 cup olive oil.
+7. Add garlic, spinach, tomatoes, and salt/pepper; saute until spinach is cooked and garlic is heated (do not burn garlic).
+8. Cook angel hair pasta according to package directions and drain.
+9. Toss pasta with spinach-tomato mixture and reserve for plating.
+10. Plate pasta, top with chicken and balsamic sauce, then garnish with Parmesan.
+
+### Family Notes
+- Carino's Chicken Balsamico (Johnny Carino copycat style).
+
+---
+
+## 2) Fettuccine Alfredo
 ![Fettuccine Alfredo](assets/recipes/fettucine-alfredo.png)
 
 **Recipe Owner:** Kristine  
@@ -49,7 +87,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 2) Thai Pasta Salad
+## 3) Thai Pasta Salad
 ![Thai Pasta Salad](assets/recipes/thai-pasta-salad.png)
 
 **Recipe Owner:** Jessica and B Cooley  
@@ -85,7 +123,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 3) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
+## 4) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
 **Recipe Owner:** Kristine  
 **Serves/Yield:** About 24 bars  
 **Prep time:** 25 min  

@@ -5,6 +5,7 @@ Add your recipes to the category sections below.
 ## Breakfast
 
 ## Mains
+- [Chicken Balsamico](recipes/mains/chicken-balsamico.md)
 - [Fettuccine Alfredo](recipes/mains/fettuccine-alfredo.md)
 
 ## Sides
