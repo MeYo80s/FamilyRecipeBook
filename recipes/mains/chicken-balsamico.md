@@ -1,5 +1,7 @@
 # Chicken Balsamico
 
+![Chicken Balsamico](../../assets/recipes/chicken-balsamico.png)
+
 **Recipe Owner:** Kristine  
 **Serves/Yield:** 4 servings  
 **Prep time:** 20 min  
