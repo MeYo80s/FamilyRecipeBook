@@ -4,7 +4,7 @@
 **Serves/Yield:** 4-6 servings  
 **Prep time:** 10 min  
 **Cook time:** 5-8 min  
-**Estimated macros:** ~210 cal | 5g protein | 7g fat | 31g carbs (per serving)
+**Estimated macros:** ~200 cal | 4g protein | 6g fat | 31g carbs (per serving)
 
 ### Ingredients
 **Pudding Base**
@@ -12,7 +12,7 @@
 - 1/8 cup sugar
 - Pinch of salt
 - 1 cup milk
-- 2 egg yolks
+- 1 egg yolk
 - 1 tbsp butter
 - 1 tsp vanilla
 
