@@ -9,7 +9,8 @@ A collection of our favorite family recipes and stories.
 - [3) Easy Brazilian Cheese Bread (Pão de Queijo)](#3-easy-brazilian-cheese-bread-p-o-de-queijo)
 - [4) Thai Pasta Salad](#4-thai-pasta-salad)
 - [5) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#5-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)
-- [6) Lemon Cheese Braid Bread](#6-lemon-cheese-braid-bread)
+- [6) Danish Bread Pudding (Grandma Lewis)](#6-danish-bread-pudding-grandma-lewis)
+- [7) Lemon Cheese Braid Bread](#7-lemon-cheese-braid-bread)
 
 ## How to Use This Book
 - Add/edit recipes in `recipes/`.
@@ -205,7 +206,40 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 6) Lemon Cheese Braid Bread
+## 6) Danish Bread Pudding (Grandma Lewis)
+**Recipe Owner:** Kathy  
+**Serves/Yield:** 4-6 servings  
+**Prep time:** 10 min  
+**Cook time:** 5-8 min  
+**Estimated macros:** ~210 cal | 5g protein | 7g fat | 31g carbs (per serving)
+
+### Ingredients
+**Pudding Base**
+- 1 tbsp cornstarch
+- 1/8 cup sugar
+- Pinch of salt
+- 1 cup milk
+- 2 egg yolks
+- 1 tbsp butter
+- 1 tsp vanilla
+
+**For Serving**
+- Toasted, buttered bread (torn into small pieces)
+
+### Instructions
+1. Mix cornstarch, sugar, and salt.
+2. Stir in milk and egg yolks until smooth.
+3. Microwave 1 minute at a time, stirring between each minute, until thick pudding forms.
+4. Remove from microwave and stir in butter and vanilla.
+5. While pudding cooks, toast and butter bread; tear into small pieces.
+6. Pour warm pudding over toast pieces and serve.
+
+### Family Notes
+- Passed down from Grandma Lewis. A Danish dish with tweaks over the years.
+
+---
+
+## 7) Lemon Cheese Braid Bread
 ![Lemon Cheese Braid Bread](assets/recipes/lemon-cheese-braid-bread.png)
 
 **Recipe Owner:** Kristine  
