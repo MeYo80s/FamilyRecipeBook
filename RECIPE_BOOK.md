@@ -219,7 +219,7 @@ A collection of our favorite family recipes and stories.
 - 1/8 cup sugar
 - Pinch of salt
 - 1 cup milk
-- 2 egg yolks
+- 1 egg yolk
 - 1 tbsp butter
 - 1 tsp vanilla
 
