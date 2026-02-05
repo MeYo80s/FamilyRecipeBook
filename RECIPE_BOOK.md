@@ -126,6 +126,8 @@ A collection of our favorite family recipes and stories.
 ---
 
 ## 4) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
+![Chocolate-Frosted Peanut Butter Cookie Bars](assets/recipes/chocolate-frosted-peanut-butter-cookie-bars.png)
+
 **Recipe Owner:** Kristine  
 **Serves/Yield:** About 24 bars  
 **Prep time:** 25 min  
