@@ -188,7 +188,7 @@ A collection of our favorite family recipes and stories.
 **Serves/Yield:** 10-12 servings  
 **Prep time:** 20 min  
 **Cook time:** 45 min  
-**Estimated macros:** Not calculated
+**Estimated macros:** ~380 cal | 18g protein | 15g fat | 42g carbs (per serving, serves 12)
 
 ### Ingredients
 - 2 to 2 1/2 (28 oz) cans pork and beans
