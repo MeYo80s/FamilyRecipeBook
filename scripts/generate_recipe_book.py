@@ -11,6 +11,7 @@ INDEX = ROOT / "RECIPE_INDEX.md"
 
 def slugify(text: str) -> str:
     text = text.lower()
+    text = text.replace("'", "").replace("’", "")
     text = re.sub(r"[^a-z0-9]+", "-", text)
     return text.strip("-")
 

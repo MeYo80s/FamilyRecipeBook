@@ -7,8 +7,8 @@ A collection of our favorite family recipes and stories.
 
 | Category | Category |
 | --- | --- |
-| **Breakfast**<br>[1) Pudding Toast](#1-pudding-toast) | **Mains**<br>[2) Chicken Balsamico](#2-chicken-balsamico)<br>[3) Fettuccine Alfredo](#3-fettuccine-alfredo)<br>[4) Mom's Roast](#4-mom-s-roast)<br>[5) Mom's Potato Pea Soup](#5-mom-s-potato-pea-soup)<br>[6) Tasty Beans (Grandpa Adair)](#6-tasty-beans-grandpa-adair) |
-| **Sides**<br>[7) Easy Brazilian Cheese Bread (Pão de Queijo)](#7-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[8) Jessica's Spinach Salad](#8-jessica-s-spinach-salad)<br>[9) Thai Pasta Salad](#9-thai-pasta-salad) | **Desserts**<br>[10) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#10-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars) |
+| **Breakfast**<br>[1) Pudding Toast](#1-pudding-toast) | **Mains**<br>[2) Chicken Balsamico](#2-chicken-balsamico)<br>[3) Fettuccine Alfredo](#3-fettuccine-alfredo)<br>[4) Mom's Roast](#4-moms-roast)<br>[5) Mom's Potato Pea Soup](#5-moms-potato-pea-soup)<br>[6) Tasty Beans (Grandpa Adair)](#6-tasty-beans-grandpa-adair) |
+| **Sides**<br>[7) Easy Brazilian Cheese Bread (Pão de Queijo)](#7-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[8) Jessica's Spinach Salad](#8-jessicas-spinach-salad)<br>[9) Thai Pasta Salad](#9-thai-pasta-salad) | **Desserts**<br>[10) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#10-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars) |
 | **Holiday**<br>[11) Lemon Cheese Braid Bread](#11-lemon-cheese-braid-bread)<br>[12) Oyster Stew](#12-oyster-stew) |  |
 
 ## How to Use This Book
