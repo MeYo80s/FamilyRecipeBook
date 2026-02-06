@@ -344,6 +344,8 @@ A collection of our favorite family recipes and stories.
 ---
 
 ## 10) Oyster Stew
+![Oyster Stew](assets/recipes/new-year-oyster-stew.png)
+
 **Recipe Owner:** Grandma Adair  
 **Serves/Yield:** 8 servings  
 **Prep time:** 10 min  

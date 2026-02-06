@@ -1,5 +1,7 @@
 # Oyster Stew
 
+![Oyster Stew](../../assets/recipes/new-year-oyster-stew.png)
+
 **Recipe Owner:** Grandma Adair  
 **Serves/Yield:** 8 servings  
 **Prep time:** 10 min  
