@@ -8,8 +8,8 @@ A collection of our favorite family recipes and stories.
 | Category | Category |
 | --- | --- |
 | **Breakfast**<br>[1) Pudding Toast](#1-pudding-toast) | **Mains**<br>[2) Chicken Balsamico](#2-chicken-balsamico)<br>[3) Fettuccine Alfredo](#3-fettuccine-alfredo)<br>[4) Hamburger Rice](#4-hamburger-rice)<br>[5) Mom's Roast](#5-moms-roast)<br>[6) Mom's Potato Pea Soup](#6-moms-potato-pea-soup)<br>[7) Tasty Beans (Grandpa Adair)](#7-tasty-beans-grandpa-adair) |
-| **Sides**<br>[8) Easy Brazilian Cheese Bread (Pão de Queijo)](#8-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[9) Jessica's Spinach Salad](#9-jessicas-spinach-salad)<br>[10) Thai Pasta Salad](#10-thai-pasta-salad) | **Desserts**<br>[11) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#11-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars) |
-| **Holiday**<br>[12) Lemon Cheese Braid Bread](#12-lemon-cheese-braid-bread)<br>[13) Oyster Stew](#13-oyster-stew) |  |
+| **Sides**<br>[8) Easy Brazilian Cheese Bread (Pão de Queijo)](#8-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[9) Jessica's Spinach Salad](#9-jessicas-spinach-salad)<br>[10) Thai Pasta Salad](#10-thai-pasta-salad) | **Desserts**<br>[11) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#11-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)<br>[12) Mom's Italian Cream Cake](#12-moms-italian-cream-cake) |
+| **Holiday**<br>[13) Lemon Cheese Braid Bread](#13-lemon-cheese-braid-bread)<br>[14) Oyster Stew](#14-oyster-stew) |  |
 
 ## How to Use This Book
 - Add/edit recipes in `recipes/`.
@@ -397,7 +397,50 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 12) Lemon Cheese Braid Bread
+## 12) Mom's Italian Cream Cake
+**Recipe Owner:** Kathy Adair  
+**Serves/Yield:** 24 slices  
+**Prep time:** 25 min  
+**Cook time:** 23 min  
+**Estimated macros (est.):** ~370 cal | 6g protein | 18g fat | 46g carbs (per slice, serves 24)
+
+### Ingredients
+**Cake**
+- 1/2 cup butter, softened
+- 1/2 cup coconut oil
+- 2 cups sugar
+- 5 egg yolks
+- 1 tsp salt
+- 4 cups flour
+- 2 tsp baking soda
+- 2 cups buttermilk
+- 2 tsp butter extract (optional)
+- 2 tsp vanilla extract
+- 12 egg whites
+
+**Topping**
+- 8 oz cream cheese, softened
+- 1 cup powdered sugar (a little less if you prefer)
+- 2 cups whipping cream
+- 1 tsp vanilla extract
+- Sliced strawberries, for serving
+
+### Instructions
+1. Heat oven to 350°F. Grease and flour a 12 x 18-inch pan.
+2. Beat butter, coconut oil, and sugar until light and fluffy. Mix in egg yolks.
+3. Add salt, flour, and baking soda, alternating with buttermilk, and mix until just combined.
+4. Stir in butter extract (if using) and vanilla.
+5. Beat egg whites until stiff peaks form, then fold into the batter.
+6. Pour into prepared pan and bake until lightly browned, about 23 minutes.
+7. For topping, beat cream cheese and powdered sugar, then whip in cream and vanilla until smooth.
+8. Spread topping over cooled cake. Serve with sliced strawberries.
+
+### Family Notes
+- Lots of sliced strawberries are great spooned on top or served on the side.
+
+---
+
+## 13) Lemon Cheese Braid Bread
 ![Lemon Cheese Braid Bread](assets/recipes/lemon-cheese-braid-bread.png)
 
 **Recipe Owner:** Kristine  
@@ -446,7 +489,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 13) Oyster Stew
+## 14) Oyster Stew
 ![Oyster Stew](assets/recipes/new-year-oyster-stew.png)
 
 **Recipe Owner:** Grandma Adair  
