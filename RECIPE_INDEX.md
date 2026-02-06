@@ -3,6 +3,7 @@
 Add your recipes to the category sections below.
 
 ## Breakfast
+- [German Pancakes](recipes/breakfast/german-pancakes.md)
 - [Pudding Toast](recipes/breakfast/pudding-toast.md)
 
 ## Mains

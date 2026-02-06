@@ -7,9 +7,9 @@ A collection of our favorite family recipes and stories.
 
 | Category | Category |
 | --- | --- |
-| **Breakfast**<br>[1) Pudding Toast](#1-pudding-toast) | **Mains**<br>[2) Chicken Balsamico](#2-chicken-balsamico)<br>[3) Fettuccine Alfredo](#3-fettuccine-alfredo)<br>[4) Hamburger Rice](#4-hamburger-rice)<br>[5) Mom's Roast](#5-moms-roast)<br>[6) Mom's Potato Pea Soup](#6-moms-potato-pea-soup)<br>[7) Tasty Beans (Grandpa Adair)](#7-tasty-beans-grandpa-adair) |
-| **Sides**<br>[8) Easy Brazilian Cheese Bread (Pão de Queijo)](#8-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[9) Classic Sourdough Bread](#9-classic-sourdough-bread)<br>[10) Hayes' Bean Dip](#10-hayes-bean-dip)<br>[11) Jessica's Spinach Salad](#11-jessicas-spinach-salad)<br>[12) Thai Pasta Salad](#12-thai-pasta-salad) | **Desserts**<br>[13) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#13-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)<br>[14) Chocolate Chip Oatmeal Cookies](#14-chocolate-chip-oatmeal-cookies)<br>[15) Grandma Kartchner Molasses Cookies](#15-grandma-kartchner-molasses-cookies)<br>[16) Heather's Chocolate Chip Bundt Cake](#16-heathers-chocolate-chip-bundt-cake)<br>[17) Ina Garten Style Old-Fashioned Apple Crisp](#17-ina-garten-style-old-fashioned-apple-crisp)<br>[18) Mom's Italian Cream Cake](#18-moms-italian-cream-cake)<br>[19) Mochi Butter Cake](#19-mochi-butter-cake)<br>[20) Peanut Butter Balls (You Can Eat It Dough)](#20-peanut-butter-balls-you-can-eat-it-dough) |
-| **Holiday**<br>[21) Lemon Cheese Braid Bread](#21-lemon-cheese-braid-bread)<br>[22) Oyster Stew](#22-oyster-stew) |  |
+| **Breakfast**<br>[1) German Pancakes](#1-german-pancakes)<br>[2) Pudding Toast](#2-pudding-toast) | **Mains**<br>[3) Chicken Balsamico](#3-chicken-balsamico)<br>[4) Fettuccine Alfredo](#4-fettuccine-alfredo)<br>[5) Hamburger Rice](#5-hamburger-rice)<br>[6) Mom's Roast](#6-moms-roast)<br>[7) Mom's Potato Pea Soup](#7-moms-potato-pea-soup)<br>[8) Tasty Beans (Grandpa Adair)](#8-tasty-beans-grandpa-adair) |
+| **Sides**<br>[9) Easy Brazilian Cheese Bread (Pão de Queijo)](#9-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[10) Classic Sourdough Bread](#10-classic-sourdough-bread)<br>[11) Hayes' Bean Dip](#11-hayes-bean-dip)<br>[12) Jessica's Spinach Salad](#12-jessicas-spinach-salad)<br>[13) Thai Pasta Salad](#13-thai-pasta-salad) | **Desserts**<br>[14) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#14-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)<br>[15) Chocolate Chip Oatmeal Cookies](#15-chocolate-chip-oatmeal-cookies)<br>[16) Grandma Kartchner Molasses Cookies](#16-grandma-kartchner-molasses-cookies)<br>[17) Heather's Chocolate Chip Bundt Cake](#17-heathers-chocolate-chip-bundt-cake)<br>[18) Ina Garten Style Old-Fashioned Apple Crisp](#18-ina-garten-style-old-fashioned-apple-crisp)<br>[19) Mom's Italian Cream Cake](#19-moms-italian-cream-cake)<br>[20) Mochi Butter Cake](#20-mochi-butter-cake)<br>[21) Peanut Butter Balls (You Can Eat It Dough)](#21-peanut-butter-balls-you-can-eat-it-dough) |
+| **Holiday**<br>[22) Lemon Cheese Braid Bread](#22-lemon-cheese-braid-bread)<br>[23) Oyster Stew](#23-oyster-stew) |  |
 
 ## How to Use This Book
 - Add/edit recipes in `recipes/`.
@@ -19,7 +19,34 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 1) Pudding Toast
+## 1) German Pancakes
+**Recipe Owner:** Heather Adair  
+**Serves/Yield:** 6 servings  
+**Prep time:** 10 min  
+**Cook time:** 25 min  
+**Estimated macros (est.):** ~250 cal | 10g protein | 11g fat | 27g carbs (per serving, serves 6)
+
+### Ingredients
+- 1 cup flour
+- 1 cup milk
+- 6 eggs
+- 1/2 tsp salt
+- 1/2 cup butter
+- Powdered sugar, for dusting
+
+### Instructions
+1. Heat oven to 450°F.
+2. Melt butter in a 9 x 13-inch pan in the oven.
+3. Blend milk, eggs, flour, and salt until smooth.
+4. Pour batter into the hot pan and bake about 25 minutes, until puffed and golden.
+5. Dust with powdered sugar. Cut and serve plain or with fruit or syrup.
+
+### Family Notes
+- Also known as Egg Puff.
+
+---
+
+## 2) Pudding Toast
 **Recipe Owner:** Grandma Lewis  
 **Serves/Yield:** 4 servings  
 **Prep time:** 10 min  
@@ -52,7 +79,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 2) Chicken Balsamico
+## 3) Chicken Balsamico
 ![Chicken Balsamico](assets/recipes/chicken-balsamico.png)
 
 **Recipe Owner:** Kristine  
@@ -91,7 +118,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 3) Fettuccine Alfredo
+## 4) Fettuccine Alfredo
 ![Fettuccine Alfredo](assets/recipes/fettucine-alfredo.png)
 
 **Recipe Owner:** Kristine  
@@ -125,7 +152,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 4) Hamburger Rice
+## 5) Hamburger Rice
 **Recipe Owner:** Kristine  
 **Serves/Yield:** 6 servings  
 **Prep time:** 10 min  
@@ -154,7 +181,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 5) Mom's Roast
+## 6) Mom's Roast
 **Recipe Owner:** Mom  
 **Serves/Yield:** 10 servings  
 **Prep time:** 10 min  
@@ -179,7 +206,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 6) Mom's Potato Pea Soup
+## 7) Mom's Potato Pea Soup
 **Recipe Owner:** Kathy  
 **Serves/Yield:** 6 servings  
 **Prep time:** 15 min  
@@ -210,7 +237,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 7) Tasty Beans (Grandpa Adair)
+## 8) Tasty Beans (Grandpa Adair)
 ![Tasty Beans (Grandpa Adair)](assets/recipes/tasty-beans.png)
 
 **Recipe Owner:** Grandpa Adair  
@@ -245,7 +272,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 8) Easy Brazilian Cheese Bread (Pão de Queijo)
+## 9) Easy Brazilian Cheese Bread (Pão de Queijo)
 **Recipe Owner:** Charlene  
 **Serves/Yield:** 6-8 servings (12 to 18 mini cheese breads)  
 **Prep time:** 5 min  
@@ -275,7 +302,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 9) Classic Sourdough Bread
+## 10) Classic Sourdough Bread
 **Recipe Owner:** Kristine  
 **Serves/Yield:** 1 loaf (about 12 slices)  
 **Prep time:** 30 min (active)  
@@ -305,7 +332,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 10) Hayes' Bean Dip
+## 11) Hayes' Bean Dip
 **Recipe Owner:** Hayes Broadhead  
 **Serves/Yield:** 10-12 servings  
 **Prep time:** 10 min  
@@ -332,7 +359,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 11) Jessica's Spinach Salad
+## 12) Jessica's Spinach Salad
 **Recipe Owner:** Jessica Cooley  
 **Serves/Yield:** 8-10 servings  
 **Prep time:** 20 min  
@@ -370,7 +397,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 12) Thai Pasta Salad
+## 13) Thai Pasta Salad
 ![Thai Pasta Salad](assets/recipes/thai-pasta-salad.png)
 
 **Recipe Owner:** Jessica and B Cooley  
@@ -406,7 +433,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 13) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
+## 14) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
 ![Chocolate-Frosted Peanut Butter Cookie Bars](assets/recipes/chocolate-frosted-peanut-butter-cookie-bars.png)
 
 **Recipe Owner:** Kristine  
@@ -454,7 +481,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 14) Chocolate Chip Oatmeal Cookies
+## 15) Chocolate Chip Oatmeal Cookies
 **Recipe Owner:** Kristine  
 **Serves/Yield:** About 4 dozen cookies  
 **Prep time:** 15 min  
@@ -486,7 +513,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 15) Grandma Kartchner Molasses Cookies
+## 16) Grandma Kartchner Molasses Cookies
 **Recipe Owner:** Grandma Kartchner  
 **Serves/Yield:** About 6 dozen cookies  
 **Prep time:** 20 min  
@@ -522,7 +549,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 16) Heather's Chocolate Chip Bundt Cake
+## 17) Heather's Chocolate Chip Bundt Cake
 **Recipe Owner:** Heather  
 **Serves/Yield:** 12-14 servings  
 **Prep time:** 15 min  
@@ -554,7 +581,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 17) Ina Garten Style Old-Fashioned Apple Crisp
+## 18) Ina Garten Style Old-Fashioned Apple Crisp
 **Recipe Owner:** Kristine  
 **Serves/Yield:** 10-12 servings  
 **Prep time:** 25 min  
@@ -592,7 +619,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 18) Mom's Italian Cream Cake
+## 19) Mom's Italian Cream Cake
 **Recipe Owner:** Kathy Adair  
 **Serves/Yield:** 24 slices  
 **Prep time:** 25 min  
@@ -635,7 +662,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 19) Mochi Butter Cake
+## 20) Mochi Butter Cake
 **Recipe Owner:** Kristine  
 **Serves/Yield:** 24 squares  
 **Prep time:** 15 min  
@@ -667,7 +694,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 20) Peanut Butter Balls (You Can Eat It Dough)
+## 21) Peanut Butter Balls (You Can Eat It Dough)
 ![Peanut Butter Balls (You Can Eat It Dough)](assets/recipes/you-can-eat-it-dough.png)
 
 **Recipe Owner:** Grandma Marjorie Adair  
@@ -693,7 +720,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 21) Lemon Cheese Braid Bread
+## 22) Lemon Cheese Braid Bread
 ![Lemon Cheese Braid Bread](assets/recipes/lemon-cheese-braid-bread.png)
 
 **Recipe Owner:** Kristine  
@@ -742,7 +769,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 22) Oyster Stew
+## 23) Oyster Stew
 ![Oyster Stew](assets/recipes/new-year-oyster-stew.png)
 
 **Recipe Owner:** Grandma Adair  
