@@ -8,8 +8,8 @@ A collection of our favorite family recipes and stories.
 | Category | Category |
 | --- | --- |
 | **Breakfast**<br>[1) Pudding Toast](#1-pudding-toast) | **Mains**<br>[2) Chicken Balsamico](#2-chicken-balsamico)<br>[3) Fettuccine Alfredo](#3-fettuccine-alfredo)<br>[4) Hamburger Rice](#4-hamburger-rice)<br>[5) Mom's Roast](#5-moms-roast)<br>[6) Mom's Potato Pea Soup](#6-moms-potato-pea-soup)<br>[7) Tasty Beans (Grandpa Adair)](#7-tasty-beans-grandpa-adair) |
-| **Sides**<br>[8) Easy Brazilian Cheese Bread (Pão de Queijo)](#8-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[9) Jessica's Spinach Salad](#9-jessicas-spinach-salad)<br>[10) Thai Pasta Salad](#10-thai-pasta-salad) | **Desserts**<br>[11) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#11-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)<br>[12) Chocolate Chip Oatmeal Cookies](#12-chocolate-chip-oatmeal-cookies)<br>[13) Grandma Kartchner Molasses Cookies](#13-grandma-kartchner-molasses-cookies)<br>[14) Heather's Chocolate Chip Bundt Cake](#14-heathers-chocolate-chip-bundt-cake)<br>[15) Ina Garten Style Old-Fashioned Apple Crisp](#15-ina-garten-style-old-fashioned-apple-crisp)<br>[16) Mom's Italian Cream Cake](#16-moms-italian-cream-cake)<br>[17) Mochi Butter Cake](#17-mochi-butter-cake)<br>[18) Peanut Butter Balls (You Can Eat It Dough)](#18-peanut-butter-balls-you-can-eat-it-dough) |
-| **Holiday**<br>[19) Lemon Cheese Braid Bread](#19-lemon-cheese-braid-bread)<br>[20) Oyster Stew](#20-oyster-stew) |  |
+| **Sides**<br>[8) Easy Brazilian Cheese Bread (Pão de Queijo)](#8-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[9) Classic Sourdough Bread](#9-classic-sourdough-bread)<br>[10) Jessica's Spinach Salad](#10-jessicas-spinach-salad)<br>[11) Thai Pasta Salad](#11-thai-pasta-salad) | **Desserts**<br>[12) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#12-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)<br>[13) Chocolate Chip Oatmeal Cookies](#13-chocolate-chip-oatmeal-cookies)<br>[14) Grandma Kartchner Molasses Cookies](#14-grandma-kartchner-molasses-cookies)<br>[15) Heather's Chocolate Chip Bundt Cake](#15-heathers-chocolate-chip-bundt-cake)<br>[16) Ina Garten Style Old-Fashioned Apple Crisp](#16-ina-garten-style-old-fashioned-apple-crisp)<br>[17) Mom's Italian Cream Cake](#17-moms-italian-cream-cake)<br>[18) Mochi Butter Cake](#18-mochi-butter-cake)<br>[19) Peanut Butter Balls (You Can Eat It Dough)](#19-peanut-butter-balls-you-can-eat-it-dough) |
+| **Holiday**<br>[20) Lemon Cheese Braid Bread](#20-lemon-cheese-braid-bread)<br>[21) Oyster Stew](#21-oyster-stew) |  |
 
 ## How to Use This Book
 - Add/edit recipes in `recipes/`.
@@ -275,7 +275,37 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 9) Jessica's Spinach Salad
+## 9) Classic Sourdough Bread
+**Recipe Owner:** Kristine  
+**Serves/Yield:** 1 loaf (about 12 slices)  
+**Prep time:** 30 min (active)  
+**Cook time:** 48-51 min  
+**Estimated macros (est.):** ~170 cal | 6g protein | 0g fat | 35g carbs (per slice, about 12 slices)
+
+### Ingredients
+- 150 g sourdough starter
+- 10 g salt (Redmond real salt is close to 1 tsp)
+- 300 g water
+- 450 g flour (half all-purpose, half bread flour)
+
+### Instructions
+1. Measure and mix: in a bowl, combine starter, salt, water, and flour. Mix with a dough hook for about 5 minutes. Cover the bowl.
+2. Stretch and fold: after a few minutes, wet your hand, pull the dough up from the side, and fold toward the center. Rotate the bowl a quarter turn and repeat. Do this at least twice within the first hour, 5-10 minutes apart.
+3. Bulk rise: let dough rise 6-8 hours, until roughly doubled. Don’t let it over-proof and start to collapse.
+4. Shape: turn dough onto a floured surface and shape into a tight ball. Line a Dutch oven with parchment and place dough inside to rise.
+5. Second rise: let dough rise about 2 hours (longer if cool, shorter if warm).
+6. Preheat: heat oven as hot as it will go (about 500°F), then reduce to 420°F.
+7. Score: score the top with a sharp knife, razor, or lame.
+8. Bake: bake in the Dutch oven at 420°F for 45 minutes. Remove loaf from Dutch oven and bake directly on the rack 3-6 minutes to brown the crust.
+
+### Family Notes
+- I took this sourdough class with my sister-in-law Lindy.
+- This recipe works well in a 4-5 quart Dutch oven.
+- You can reuse parchment paper 3-4 times if you want.
+
+---
+
+## 10) Jessica's Spinach Salad
 **Recipe Owner:** Jessica Cooley  
 **Serves/Yield:** 8-10 servings  
 **Prep time:** 20 min  
@@ -313,7 +343,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 10) Thai Pasta Salad
+## 11) Thai Pasta Salad
 ![Thai Pasta Salad](assets/recipes/thai-pasta-salad.png)
 
 **Recipe Owner:** Jessica and B Cooley  
@@ -349,7 +379,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 11) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
+## 12) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
 ![Chocolate-Frosted Peanut Butter Cookie Bars](assets/recipes/chocolate-frosted-peanut-butter-cookie-bars.png)
 
 **Recipe Owner:** Kristine  
@@ -397,7 +427,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 12) Chocolate Chip Oatmeal Cookies
+## 13) Chocolate Chip Oatmeal Cookies
 **Recipe Owner:** Kristine  
 **Serves/Yield:** About 4 dozen cookies  
 **Prep time:** 15 min  
@@ -429,7 +459,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 13) Grandma Kartchner Molasses Cookies
+## 14) Grandma Kartchner Molasses Cookies
 **Recipe Owner:** Grandma Kartchner  
 **Serves/Yield:** About 6 dozen cookies  
 **Prep time:** 20 min  
@@ -465,7 +495,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 14) Heather's Chocolate Chip Bundt Cake
+## 15) Heather's Chocolate Chip Bundt Cake
 **Recipe Owner:** Heather  
 **Serves/Yield:** 12-14 servings  
 **Prep time:** 15 min  
@@ -497,7 +527,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 15) Ina Garten Style Old-Fashioned Apple Crisp
+## 16) Ina Garten Style Old-Fashioned Apple Crisp
 **Recipe Owner:** Kristine  
 **Serves/Yield:** 10-12 servings  
 **Prep time:** 25 min  
@@ -535,7 +565,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 16) Mom's Italian Cream Cake
+## 17) Mom's Italian Cream Cake
 **Recipe Owner:** Kathy Adair  
 **Serves/Yield:** 24 slices  
 **Prep time:** 25 min  
@@ -578,7 +608,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 17) Mochi Butter Cake
+## 18) Mochi Butter Cake
 **Recipe Owner:** Kristine  
 **Serves/Yield:** 24 squares  
 **Prep time:** 15 min  
@@ -610,7 +640,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 18) Peanut Butter Balls (You Can Eat It Dough)
+## 19) Peanut Butter Balls (You Can Eat It Dough)
 ![Peanut Butter Balls (You Can Eat It Dough)](assets/recipes/you-can-eat-it-dough.png)
 
 **Recipe Owner:** Grandma Marjorie Adair  
@@ -636,7 +666,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 19) Lemon Cheese Braid Bread
+## 20) Lemon Cheese Braid Bread
 ![Lemon Cheese Braid Bread](assets/recipes/lemon-cheese-braid-bread.png)
 
 **Recipe Owner:** Kristine  
@@ -685,7 +715,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 20) Oyster Stew
+## 21) Oyster Stew
 ![Oyster Stew](assets/recipes/new-year-oyster-stew.png)
 
 **Recipe Owner:** Grandma Adair  
