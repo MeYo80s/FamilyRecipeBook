@@ -6,7 +6,7 @@
 **Serves/Yield:** 8 servings  
 **Prep time:** 10 min  
 **Cook time:** 20 min  
-**Estimated macros:** Not calculated
+**Estimated macros:** ~540 cal | 16g protein | 33g fat | 42g carbs (per serving, serves 8)
 
 ### Ingredients
 - 6 oz butter (3/4 cup)
