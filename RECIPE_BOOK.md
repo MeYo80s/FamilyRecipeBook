@@ -7,9 +7,9 @@ A collection of our favorite family recipes and stories.
 
 | Category | Category |
 | --- | --- |
-| **Breakfast**<br>[1) Pudding Toast](#1-pudding-toast) | **Mains**<br>[2) Chicken Balsamico](#2-chicken-balsamico)<br>[3) Fettuccine Alfredo](#3-fettuccine-alfredo)<br>[4) Mom's Roast](#4-moms-roast)<br>[5) Mom's Potato Pea Soup](#5-moms-potato-pea-soup)<br>[6) Tasty Beans (Grandpa Adair)](#6-tasty-beans-grandpa-adair) |
-| **Sides**<br>[7) Easy Brazilian Cheese Bread (Pão de Queijo)](#7-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[8) Jessica's Spinach Salad](#8-jessicas-spinach-salad)<br>[9) Thai Pasta Salad](#9-thai-pasta-salad) | **Desserts**<br>[10) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#10-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars) |
-| **Holiday**<br>[11) Lemon Cheese Braid Bread](#11-lemon-cheese-braid-bread)<br>[12) Oyster Stew](#12-oyster-stew) |  |
+| **Breakfast**<br>[1) Pudding Toast](#1-pudding-toast) | **Mains**<br>[2) Chicken Balsamico](#2-chicken-balsamico)<br>[3) Fettuccine Alfredo](#3-fettuccine-alfredo)<br>[4) Hamburger Rice](#4-hamburger-rice)<br>[5) Mom's Roast](#5-moms-roast)<br>[6) Mom's Potato Pea Soup](#6-moms-potato-pea-soup)<br>[7) Tasty Beans (Grandpa Adair)](#7-tasty-beans-grandpa-adair) |
+| **Sides**<br>[8) Easy Brazilian Cheese Bread (Pão de Queijo)](#8-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[9) Jessica's Spinach Salad](#9-jessicas-spinach-salad)<br>[10) Thai Pasta Salad](#10-thai-pasta-salad) | **Desserts**<br>[11) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#11-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars) |
+| **Holiday**<br>[12) Lemon Cheese Braid Bread](#12-lemon-cheese-braid-bread)<br>[13) Oyster Stew](#13-oyster-stew) |  |
 
 ## How to Use This Book
 - Add/edit recipes in `recipes/`.
@@ -125,7 +125,36 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 4) Mom's Roast
+## 4) Hamburger Rice
+**Recipe Owner:** Kristine  
+**Serves/Yield:** 6 servings  
+**Prep time:** 10 min  
+**Cook time:** 15 min  
+**Estimated macros (est.):** ~430 cal | 20g protein | 13g fat | 55g carbs (per serving, serves 6)
+
+### Ingredients
+- 1 lb hamburger
+- 3 celery stalks, diced
+- 1 onion, diced
+- 1 (1 oz) package French onion soup mix
+- 1 tsp Worcestershire sauce
+- 1 tsp soy sauce
+- 2 cups rice
+- 4 cups water
+
+### Instructions
+1. In an Instant Pot, brown hamburger.
+2. Add onion and saute for a couple minutes, then add celery.
+3. Stir in soup mix, Worcestershire sauce, soy sauce, rice, and water.
+4. Lock the lid, set to sealed, and cook on the rice setting.
+5. If your Instant Pot doesn’t have a rice setting, cook on high pressure for 10 minutes, then quick release.
+
+### Family Notes
+- Soy sauce and Worcestershire amounts are light; adjust to taste if you want more savory flavor.
+
+---
+
+## 5) Mom's Roast
 **Recipe Owner:** Mom  
 **Serves/Yield:** 10 servings  
 **Prep time:** 10 min  
@@ -150,7 +179,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 5) Mom's Potato Pea Soup
+## 6) Mom's Potato Pea Soup
 **Recipe Owner:** Kathy  
 **Serves/Yield:** 6 servings  
 **Prep time:** 15 min  
@@ -181,7 +210,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 6) Tasty Beans (Grandpa Adair)
+## 7) Tasty Beans (Grandpa Adair)
 ![Tasty Beans (Grandpa Adair)](assets/recipes/tasty-beans.png)
 
 **Recipe Owner:** Grandpa Adair  
@@ -216,7 +245,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 7) Easy Brazilian Cheese Bread (Pão de Queijo)
+## 8) Easy Brazilian Cheese Bread (Pão de Queijo)
 **Recipe Owner:** Charlene  
 **Serves/Yield:** 6-8 servings (12 to 18 mini cheese breads)  
 **Prep time:** 5 min  
@@ -246,7 +275,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 8) Jessica's Spinach Salad
+## 9) Jessica's Spinach Salad
 **Recipe Owner:** Jessica Cooley  
 **Serves/Yield:** 8-10 servings  
 **Prep time:** 20 min  
@@ -284,7 +313,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 9) Thai Pasta Salad
+## 10) Thai Pasta Salad
 ![Thai Pasta Salad](assets/recipes/thai-pasta-salad.png)
 
 **Recipe Owner:** Jessica and B Cooley  
@@ -320,7 +349,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 10) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
+## 11) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
 ![Chocolate-Frosted Peanut Butter Cookie Bars](assets/recipes/chocolate-frosted-peanut-butter-cookie-bars.png)
 
 **Recipe Owner:** Kristine  
@@ -368,7 +397,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 11) Lemon Cheese Braid Bread
+## 12) Lemon Cheese Braid Bread
 ![Lemon Cheese Braid Bread](assets/recipes/lemon-cheese-braid-bread.png)
 
 **Recipe Owner:** Kristine  
@@ -417,7 +446,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 12) Oyster Stew
+## 13) Oyster Stew
 ![Oyster Stew](assets/recipes/new-year-oyster-stew.png)
 
 **Recipe Owner:** Grandma Adair  

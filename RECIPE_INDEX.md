@@ -8,6 +8,7 @@ Add your recipes to the category sections below.
 ## Mains
 - [Chicken Balsamico](recipes/mains/chicken-balsamico.md)
 - [Fettuccine Alfredo](recipes/mains/fettuccine-alfredo.md)
+- [Hamburger Rice](recipes/mains/hamburger-rice.md)
 - [Mom's Roast](recipes/mains/moms-roast.md)
 - [Mom's Potato Pea Soup](recipes/mains/moms-potato-pea-soup.md)
 - [Tasty Beans (Grandpa Adair)](recipes/mains/tasty-beans-grandpa-adair.md)
