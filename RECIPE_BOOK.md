@@ -129,7 +129,7 @@ A collection of our favorite family recipes and stories.
 **Serves/Yield:** 10 servings  
 **Prep time:** 10 min  
 **Cook time:** 3 hours 30 min  
-**Estimated macros:** Not calculated
+**Estimated macros:** ~340 cal | 28g protein | 24g fat | 1g carbs (per serving, serves 10)
 
 ### Ingredients
 - 1 onion
@@ -154,7 +154,7 @@ A collection of our favorite family recipes and stories.
 **Serves/Yield:** 6 servings  
 **Prep time:** 15 min  
 **Cook time:** 30 min  
-**Estimated macros:** Not calculated
+**Estimated macros:** ~290 cal | 8g protein | 10g fat | 41g carbs (per serving, serves 6)
 
 ### Ingredients
 - 1 onion, diced

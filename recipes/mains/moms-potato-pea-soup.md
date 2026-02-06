@@ -4,7 +4,7 @@
 **Serves/Yield:** 6 servings  
 **Prep time:** 15 min  
 **Cook time:** 30 min  
-**Estimated macros:** Not calculated
+**Estimated macros:** ~290 cal | 8g protein | 10g fat | 41g carbs (per serving, serves 6)
 
 ### Ingredients
 - 1 onion, diced
