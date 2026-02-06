@@ -7,9 +7,9 @@ A collection of our favorite family recipes and stories.
 
 | Category | Category |
 | --- | --- |
-| **Breakfast**<br>[1) Pudding Toast](#1-pudding-toast) | **Mains**<br>[2) Chicken Balsamico](#2-chicken-balsamico)<br>[3) Fettuccine Alfredo](#3-fettuccine-alfredo)<br>[4) Mom's Roast](#4-mom-s-roast)<br>[5) Mom's Potato Pea Soup](#5-mom-s-potato-pea-soup) |
-| **Sides**<br>[6) Easy Brazilian Cheese Bread (Pão de Queijo)](#6-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[7) Thai Pasta Salad](#7-thai-pasta-salad) | **Desserts**<br>[8) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#8-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars) |
-| **Holiday**<br>[9) Lemon Cheese Braid Bread](#9-lemon-cheese-braid-bread)<br>[10) Oyster Stew](#10-oyster-stew) |  |
+| **Breakfast**<br>[1) Pudding Toast](#1-pudding-toast) | **Mains**<br>[2) Chicken Balsamico](#2-chicken-balsamico)<br>[3) Fettuccine Alfredo](#3-fettuccine-alfredo)<br>[4) Mom's Roast](#4-mom-s-roast)<br>[5) Mom's Potato Pea Soup](#5-mom-s-potato-pea-soup)<br>[6) Tasty Beans (Grandpa Adair)](#6-tasty-beans-grandpa-adair) |
+| **Sides**<br>[7) Easy Brazilian Cheese Bread (Pão de Queijo)](#7-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[8) Thai Pasta Salad](#8-thai-pasta-salad) | **Desserts**<br>[9) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#9-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars) |
+| **Holiday**<br>[10) Lemon Cheese Braid Bread](#10-lemon-cheese-braid-bread)<br>[11) Oyster Stew](#11-oyster-stew) |  |
 
 ## How to Use This Book
 - Add/edit recipes in `recipes/`.
@@ -181,7 +181,40 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 6) Easy Brazilian Cheese Bread (Pão de Queijo)
+## 6) Tasty Beans (Grandpa Adair)
+**Recipe Owner:** Grandpa Adair  
+**Serves/Yield:** 10-12 servings  
+**Prep time:** 20 min  
+**Cook time:** 45 min  
+**Estimated macros:** Not calculated
+
+### Ingredients
+- 2 to 2 1/2 (28 oz) cans pork and beans
+- 1 lb ground beef
+- 1/2 lb sausage
+- 1 large onion, diced
+- 2 (28 oz) cans whole tomatoes
+- 1 green pepper, diced
+- 4 tbsp brown sugar (or less)
+- 1 tsp chili powder
+- 1/2 tsp garlic salt
+- Salt and pepper, to taste
+
+### Instructions
+1. Brown ground beef and sausage in a large pot or Dutch oven. Drain excess fat if needed.
+2. Add diced onion and green pepper and saute until softened.
+3. Stir in brown sugar, chili powder, garlic salt, salt, and pepper.
+4. Add whole tomatoes and pork and beans. Stir to combine.
+5. Cover, bring to a gentle boil, then reduce to a simmer.
+6. Simmer until flavors meld, about 30 minutes. Serve hot.
+
+### Family Notes
+- Dutch oven cookin'.
+- Tasha wrote: "Who knew there was a recipe for this? I wonder if it has ever been followed to the 'T'."
+
+---
+
+## 7) Easy Brazilian Cheese Bread (Pão de Queijo)
 **Recipe Owner:** Charlene  
 **Serves/Yield:** 6-8 servings (12 to 18 mini cheese breads)  
 **Prep time:** 5 min  
@@ -211,7 +244,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 7) Thai Pasta Salad
+## 8) Thai Pasta Salad
 ![Thai Pasta Salad](assets/recipes/thai-pasta-salad.png)
 
 **Recipe Owner:** Jessica and B Cooley  
@@ -247,7 +280,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 8) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
+## 9) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
 ![Chocolate-Frosted Peanut Butter Cookie Bars](assets/recipes/chocolate-frosted-peanut-butter-cookie-bars.png)
 
 **Recipe Owner:** Kristine  
@@ -295,7 +328,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 9) Lemon Cheese Braid Bread
+## 10) Lemon Cheese Braid Bread
 ![Lemon Cheese Braid Bread](assets/recipes/lemon-cheese-braid-bread.png)
 
 **Recipe Owner:** Kristine  
@@ -344,7 +377,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 10) Oyster Stew
+## 11) Oyster Stew
 ![Oyster Stew](assets/recipes/new-year-oyster-stew.png)
 
 **Recipe Owner:** Grandma Adair  

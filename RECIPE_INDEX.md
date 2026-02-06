@@ -10,6 +10,7 @@ Add your recipes to the category sections below.
 - [Fettuccine Alfredo](recipes/mains/fettuccine-alfredo.md)
 - [Mom's Roast](recipes/mains/moms-roast.md)
 - [Mom's Potato Pea Soup](recipes/mains/moms-potato-pea-soup.md)
+- [Tasty Beans (Grandpa Adair)](recipes/sides/tasty-beans-grandpa-adair.md)
 
 ## Sides
 - [Easy Brazilian Cheese Bread (Pão de Queijo)](recipes/sides/easy-brazilian-cheese-bread-pao-de-queijo.md)
