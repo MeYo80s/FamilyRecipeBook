@@ -8,8 +8,8 @@ A collection of our favorite family recipes and stories.
 | Category | Category |
 | --- | --- |
 | **Breakfast**<br>[1) Pudding Toast](#1-pudding-toast) | **Mains**<br>[2) Chicken Balsamico](#2-chicken-balsamico)<br>[3) Fettuccine Alfredo](#3-fettuccine-alfredo)<br>[4) Hamburger Rice](#4-hamburger-rice)<br>[5) Mom's Roast](#5-moms-roast)<br>[6) Mom's Potato Pea Soup](#6-moms-potato-pea-soup)<br>[7) Tasty Beans (Grandpa Adair)](#7-tasty-beans-grandpa-adair) |
-| **Sides**<br>[8) Easy Brazilian Cheese Bread (Pão de Queijo)](#8-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[9) Jessica's Spinach Salad](#9-jessicas-spinach-salad)<br>[10) Thai Pasta Salad](#10-thai-pasta-salad) | **Desserts**<br>[11) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#11-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)<br>[12) Mom's Italian Cream Cake](#12-moms-italian-cream-cake) |
-| **Holiday**<br>[13) Lemon Cheese Braid Bread](#13-lemon-cheese-braid-bread)<br>[14) Oyster Stew](#14-oyster-stew) |  |
+| **Sides**<br>[8) Easy Brazilian Cheese Bread (Pão de Queijo)](#8-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[9) Jessica's Spinach Salad](#9-jessicas-spinach-salad)<br>[10) Thai Pasta Salad](#10-thai-pasta-salad) | **Desserts**<br>[11) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#11-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)<br>[12) Mom's Italian Cream Cake](#12-moms-italian-cream-cake)<br>[13) Mochiko Cake](#13-mochiko-cake) |
+| **Holiday**<br>[14) Lemon Cheese Braid Bread](#14-lemon-cheese-braid-bread)<br>[15) Oyster Stew](#15-oyster-stew) |  |
 
 ## How to Use This Book
 - Add/edit recipes in `recipes/`.
@@ -440,7 +440,39 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 13) Lemon Cheese Braid Bread
+## 13) Mochiko Cake
+**Recipe Owner:** Kristine  
+**Serves/Yield:** 24 squares  
+**Prep time:** 15 min  
+**Cook time:** 50-60 min  
+**Estimated macros (est.):** ~230 cal | 4g protein | 9g fat | 33g carbs (per square, serves 24)
+
+### Ingredients
+- 1 box (16 oz / 450 g) mochiko flour (sweet glutinous rice flour)
+- 2 cups (16 oz / 454 g) granulated sugar
+- 1 tsp baking powder
+- 1/2 tsp salt
+- 4 large eggs, room temperature
+- 2 cups (16 fl oz / 450 ml) whole milk
+- 1 can (13.5 fl oz / 400 ml) coconut milk
+- 1/2 cup (6 oz / 170 g) butter, melted
+- 2 tsp vanilla extract
+
+### Instructions
+1. Heat oven to 350°F. Butter a 9x13-inch baking pan and line with parchment paper.
+2. In a large bowl, mix mochiko flour, sugar, baking powder, and salt.
+3. Add eggs, then milk, coconut milk, melted butter, and vanilla. Mix until smooth.
+4. Pour batter into prepared pan.
+5. Bake 50-60 minutes, until golden on top. Cool completely.
+6. Cut into 24 squares. Store airtight at room temperature up to 2 days.
+
+### Family Notes
+- When we went to Hawaii with the Cooleys, a woman sold us cake like this while sitting on the beach.
+- Serve warm with whipped cream or vanilla ice cream if desired.
+
+---
+
+## 14) Lemon Cheese Braid Bread
 ![Lemon Cheese Braid Bread](assets/recipes/lemon-cheese-braid-bread.png)
 
 **Recipe Owner:** Kristine  
@@ -489,7 +521,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 14) Oyster Stew
+## 15) Oyster Stew
 ![Oyster Stew](assets/recipes/new-year-oyster-stew.png)
 
 **Recipe Owner:** Grandma Adair  
