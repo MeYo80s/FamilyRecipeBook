@@ -26,6 +26,7 @@ Add your recipes to the category sections below.
 - [Ina Garten Style Old-Fashioned Apple Crisp](recipes/desserts/ina-garten-apple-crisp.md)
 - [Mom's Italian Cream Cake](recipes/desserts/moms-italian-cream-cake.md)
 - [Mochi Butter Cake](recipes/desserts/mochi-butter-cake.md)
+- [Peanut Butter Balls (You Can Eat the Dough)](recipes/desserts/peanut-butter-balls.md)
 
 ## Holiday
 - [Lemon Cheese Braid Bread](recipes/holiday/lemon-cheese-braid-bread.md)
