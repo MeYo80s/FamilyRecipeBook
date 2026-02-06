@@ -1,4 +1,4 @@
-# Mochiko Cake
+# Mochi Butter Cake
 
 **Recipe Owner:** Kristine  
 **Serves/Yield:** 24 squares  

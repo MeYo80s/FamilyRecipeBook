@@ -8,8 +8,8 @@ A collection of our favorite family recipes and stories.
 | Category | Category |
 | --- | --- |
 | **Breakfast**<br>[1) Pudding Toast](#1-pudding-toast) | **Mains**<br>[2) Chicken Balsamico](#2-chicken-balsamico)<br>[3) Fettuccine Alfredo](#3-fettuccine-alfredo)<br>[4) Hamburger Rice](#4-hamburger-rice)<br>[5) Mom's Roast](#5-moms-roast)<br>[6) Mom's Potato Pea Soup](#6-moms-potato-pea-soup)<br>[7) Tasty Beans (Grandpa Adair)](#7-tasty-beans-grandpa-adair) |
-| **Sides**<br>[8) Easy Brazilian Cheese Bread (Pão de Queijo)](#8-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[9) Jessica's Spinach Salad](#9-jessicas-spinach-salad)<br>[10) Thai Pasta Salad](#10-thai-pasta-salad) | **Desserts**<br>[11) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#11-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)<br>[12) Mom's Italian Cream Cake](#12-moms-italian-cream-cake)<br>[13) Mochiko Cake](#13-mochiko-cake) |
-| **Holiday**<br>[14) Lemon Cheese Braid Bread](#14-lemon-cheese-braid-bread)<br>[15) Oyster Stew](#15-oyster-stew) |  |
+| **Sides**<br>[8) Easy Brazilian Cheese Bread (Pão de Queijo)](#8-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[9) Jessica's Spinach Salad](#9-jessicas-spinach-salad)<br>[10) Thai Pasta Salad](#10-thai-pasta-salad) | **Desserts**<br>[11) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#11-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)<br>[12) Heather's Chocolate Chip Bundt Cake](#12-heathers-chocolate-chip-bundt-cake)<br>[13) Mom's Italian Cream Cake](#13-moms-italian-cream-cake)<br>[14) Mochi Butter Cake](#14-mochi-butter-cake) |
+| **Holiday**<br>[15) Lemon Cheese Braid Bread](#15-lemon-cheese-braid-bread)<br>[16) Oyster Stew](#16-oyster-stew) |  |
 
 ## How to Use This Book
 - Add/edit recipes in `recipes/`.
@@ -397,7 +397,39 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 12) Mom's Italian Cream Cake
+## 12) Heather's Chocolate Chip Bundt Cake
+**Recipe Owner:** Heather  
+**Serves/Yield:** 12-14 servings  
+**Prep time:** 15 min  
+**Cook time:** 50-60 min  
+**Estimated macros (est.):** ~420 cal | 5g protein | 21g fat | 54g carbs (per serving, serves 12)
+
+### Ingredients
+- 1 box yellow cake mix
+- 1 small box instant chocolate pudding
+- 1/2 cup sugar
+- 3/4 cup water
+- 5/8 cup oil
+- 4 eggs
+- 1 cup chocolate chips
+- 8 oz sour cream
+- Powdered sugar, for topping
+
+### Instructions
+1. Heat oven to 350°F. Grease and flour a bundt pan.
+2. Mix cake mix, pudding, and sugar.
+3. Add oil and water; beat with a mixer until combined.
+4. Add eggs one at a time, beating after each addition.
+5. Fold in sour cream and chocolate chips.
+6. Pour into prepared pan and bake 50-60 minutes.
+7. Cool 1 hour before removing from pan. Sprinkle with powdered sugar.
+
+### Family Notes
+- This cake is so moist and craveable. I'm glad Heather has shared it with me.
+
+---
+
+## 13) Mom's Italian Cream Cake
 **Recipe Owner:** Kathy Adair  
 **Serves/Yield:** 24 slices  
 **Prep time:** 25 min  
@@ -440,7 +472,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 13) Mochiko Cake
+## 14) Mochi Butter Cake
 **Recipe Owner:** Kristine  
 **Serves/Yield:** 24 squares  
 **Prep time:** 15 min  
@@ -472,7 +504,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 14) Lemon Cheese Braid Bread
+## 15) Lemon Cheese Braid Bread
 ![Lemon Cheese Braid Bread](assets/recipes/lemon-cheese-braid-bread.png)
 
 **Recipe Owner:** Kristine  
@@ -521,7 +553,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 15) Oyster Stew
+## 16) Oyster Stew
 ![Oyster Stew](assets/recipes/new-year-oyster-stew.png)
 
 **Recipe Owner:** Grandma Adair  
