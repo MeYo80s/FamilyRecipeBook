@@ -20,6 +20,7 @@ Add your recipes to the category sections below.
 
 ## Desserts
 - [Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](recipes/desserts/chocolate-frosted-peanut-butter-cookie-bars.md)
+- [Chocolate Chip Oatmeal Cookies](recipes/desserts/chocolate-chip-oatmeal-cookies.md)
 - [Grandma Kartchner Molasses Cookies](recipes/desserts/grandma-kartchner-molasses-cookies.md)
 - [Heather's Chocolate Chip Bundt Cake](recipes/desserts/heathers-chocolate-chip-bundt-cake.md)
 - [Ina Garten Style Old-Fashioned Apple Crisp](recipes/desserts/ina-garten-apple-crisp.md)

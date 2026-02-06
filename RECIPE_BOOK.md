@@ -8,8 +8,8 @@ A collection of our favorite family recipes and stories.
 | Category | Category |
 | --- | --- |
 | **Breakfast**<br>[1) Pudding Toast](#1-pudding-toast) | **Mains**<br>[2) Chicken Balsamico](#2-chicken-balsamico)<br>[3) Fettuccine Alfredo](#3-fettuccine-alfredo)<br>[4) Hamburger Rice](#4-hamburger-rice)<br>[5) Mom's Roast](#5-moms-roast)<br>[6) Mom's Potato Pea Soup](#6-moms-potato-pea-soup)<br>[7) Tasty Beans (Grandpa Adair)](#7-tasty-beans-grandpa-adair) |
-| **Sides**<br>[8) Easy Brazilian Cheese Bread (Pão de Queijo)](#8-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[9) Jessica's Spinach Salad](#9-jessicas-spinach-salad)<br>[10) Thai Pasta Salad](#10-thai-pasta-salad) | **Desserts**<br>[11) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#11-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)<br>[12) Grandma Kartchner Molasses Cookies](#12-grandma-kartchner-molasses-cookies)<br>[13) Heather's Chocolate Chip Bundt Cake](#13-heathers-chocolate-chip-bundt-cake)<br>[14) Ina Garten Style Old-Fashioned Apple Crisp](#14-ina-garten-style-old-fashioned-apple-crisp)<br>[15) Mom's Italian Cream Cake](#15-moms-italian-cream-cake)<br>[16) Mochi Butter Cake](#16-mochi-butter-cake) |
-| **Holiday**<br>[17) Lemon Cheese Braid Bread](#17-lemon-cheese-braid-bread)<br>[18) Oyster Stew](#18-oyster-stew) |  |
+| **Sides**<br>[8) Easy Brazilian Cheese Bread (Pão de Queijo)](#8-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[9) Jessica's Spinach Salad](#9-jessicas-spinach-salad)<br>[10) Thai Pasta Salad](#10-thai-pasta-salad) | **Desserts**<br>[11) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#11-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)<br>[12) Chocolate Chip Oatmeal Cookies](#12-chocolate-chip-oatmeal-cookies)<br>[13) Grandma Kartchner Molasses Cookies](#13-grandma-kartchner-molasses-cookies)<br>[14) Heather's Chocolate Chip Bundt Cake](#14-heathers-chocolate-chip-bundt-cake)<br>[15) Ina Garten Style Old-Fashioned Apple Crisp](#15-ina-garten-style-old-fashioned-apple-crisp)<br>[16) Mom's Italian Cream Cake](#16-moms-italian-cream-cake)<br>[17) Mochi Butter Cake](#17-mochi-butter-cake) |
+| **Holiday**<br>[18) Lemon Cheese Braid Bread](#18-lemon-cheese-braid-bread)<br>[19) Oyster Stew](#19-oyster-stew) |  |
 
 ## How to Use This Book
 - Add/edit recipes in `recipes/`.
@@ -397,7 +397,39 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 12) Grandma Kartchner Molasses Cookies
+## 12) Chocolate Chip Oatmeal Cookies
+**Recipe Owner:** Kristine  
+**Serves/Yield:** About 4 dozen cookies  
+**Prep time:** 15 min  
+**Cook time:** 11-12 min per batch  
+**Estimated macros (est.):** ~190 cal | 3g protein | 9g fat | 25g carbs (per cookie, about 48 cookies)
+
+### Ingredients
+- 1 cup butter, softened
+- 1 cup granulated sugar
+- 1 cup brown sugar
+- 2 eggs
+- 2 tsp vanilla extract
+- 3 cups all-purpose flour (leveled)
+- 1 cup old-fashioned oats
+- 1 tsp baking soda
+- 1 tsp salt
+- 2 cups chocolate chips
+
+### Instructions
+1. Heat oven to 350°F. Line baking sheets with parchment.
+2. Cream butter and sugars until fluffy.
+3. Add eggs and vanilla; mix until combined.
+4. Add flour, oats, baking soda, and salt. Mix until just combined (do not overmix).
+5. Fold in chocolate chips.
+6. Scoop onto baking sheets and bake 11-12 minutes.
+
+### Family Notes
+- A cookie scoop helps keep the size consistent.
+
+---
+
+## 13) Grandma Kartchner Molasses Cookies
 **Recipe Owner:** Grandma Kartchner  
 **Serves/Yield:** About 6 dozen cookies  
 **Prep time:** 20 min  
@@ -433,7 +465,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 13) Heather's Chocolate Chip Bundt Cake
+## 14) Heather's Chocolate Chip Bundt Cake
 **Recipe Owner:** Heather  
 **Serves/Yield:** 12-14 servings  
 **Prep time:** 15 min  
@@ -465,7 +497,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 14) Ina Garten Style Old-Fashioned Apple Crisp
+## 15) Ina Garten Style Old-Fashioned Apple Crisp
 **Recipe Owner:** Kristine  
 **Serves/Yield:** 10-12 servings  
 **Prep time:** 25 min  
@@ -503,7 +535,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 15) Mom's Italian Cream Cake
+## 16) Mom's Italian Cream Cake
 **Recipe Owner:** Kathy Adair  
 **Serves/Yield:** 24 slices  
 **Prep time:** 25 min  
@@ -546,7 +578,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 16) Mochi Butter Cake
+## 17) Mochi Butter Cake
 **Recipe Owner:** Kristine  
 **Serves/Yield:** 24 squares  
 **Prep time:** 15 min  
@@ -578,7 +610,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 17) Lemon Cheese Braid Bread
+## 18) Lemon Cheese Braid Bread
 ![Lemon Cheese Braid Bread](assets/recipes/lemon-cheese-braid-bread.png)
 
 **Recipe Owner:** Kristine  
@@ -627,7 +659,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 18) Oyster Stew
+## 19) Oyster Stew
 ![Oyster Stew](assets/recipes/new-year-oyster-stew.png)
 
 **Recipe Owner:** Grandma Adair  
