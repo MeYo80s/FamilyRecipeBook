@@ -182,6 +182,8 @@ A collection of our favorite family recipes and stories.
 ---
 
 ## 6) Tasty Beans (Grandpa Adair)
+![Tasty Beans (Grandpa Adair)](assets/recipes/tasty-beans.png)
+
 **Recipe Owner:** Grandpa Adair  
 **Serves/Yield:** 10-12 servings  
 **Prep time:** 20 min  
