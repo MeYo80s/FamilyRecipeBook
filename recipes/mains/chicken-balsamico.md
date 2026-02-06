@@ -6,7 +6,7 @@
 **Serves/Yield:** 4 servings  
 **Prep time:** 20 min  
 **Cook time:** 25 min  
-**Estimated macros:** ~760 cal | 55g protein | 28g fat | 67g carbs (per serving)
+**Estimated macros (est.):** ~760 cal | 55g protein | 28g fat | 67g carbs (per serving)
 
 ### Ingredients
 - 2 cups flour

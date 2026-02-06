@@ -4,7 +4,7 @@
 **Serves/Yield:** 10 servings  
 **Prep time:** 10 min  
 **Cook time:** 3 hours 30 min  
-**Estimated macros:** ~340 cal | 28g protein | 24g fat | 1g carbs (per serving, serves 10)
+**Estimated macros (est.):** ~340 cal | 28g protein | 24g fat | 1g carbs (per serving, serves 10)
 
 ### Ingredients
 - 1 onion

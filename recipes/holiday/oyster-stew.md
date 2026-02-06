@@ -6,7 +6,7 @@
 **Serves/Yield:** 6 servings  
 **Prep time:** 10 min  
 **Cook time:** 20 min  
-**Estimated macros:** ~360 cal | 14g protein | 25g fat | 18g carbs (per serving, serves 6)
+**Estimated macros (est.):** ~360 cal | 14g protein | 25g fat | 18g carbs (per serving, serves 6)
 
 ### Ingredients
 - 4 tbsp butter

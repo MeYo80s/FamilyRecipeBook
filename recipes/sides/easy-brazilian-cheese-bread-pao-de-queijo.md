@@ -4,7 +4,7 @@
 **Serves/Yield:** 6-8 servings (12 to 18 mini cheese breads)  
 **Prep time:** 5 min  
 **Cook time:** 15 min  
-**Estimated macros:** ~100 cal | 2g protein | 5g fat | 12g carbs (per mini bread)
+**Estimated macros (est.):** ~100 cal | 2g protein | 5g fat | 12g carbs (per mini bread)
 
 ### Ingredients
 - 1 large egg, room temperature

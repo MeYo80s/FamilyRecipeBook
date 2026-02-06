@@ -6,7 +6,7 @@
 **Serves/Yield:** 12-14 servings  
 **Prep time:** 30 min + rising  
 **Cook time:** 25-30 min  
-**Estimated macros:** ~284 cal | 6g protein | 13g fat | 37g carbs (per slice)
+**Estimated macros (est.):** ~284 cal | 6g protein | 13g fat | 37g carbs (per slice)
 
 ### Ingredients
 - 1 package (1/4 oz) active dry yeast

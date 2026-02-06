@@ -6,7 +6,7 @@
 **Serves/Yield:** About 12 side servings  
 **Prep time:** 20 min (+ chill time)  
 **Cook time:** 10 min  
-**Estimated macros:** ~335 cal | 7g protein | 17g fat | 39g carbs (per serving)
+**Estimated macros (est.):** ~335 cal | 7g protein | 17g fat | 39g carbs (per serving)
 
 ### Ingredients
 - 1 lb angel hair pasta

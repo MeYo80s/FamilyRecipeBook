@@ -6,7 +6,7 @@
 **Serves/Yield:** About 6 servings  
 **Prep time:** 10 min  
 **Cook time:** 15 min  
-**Estimated macros:** ~700 cal | 23g protein | 40g fat | 59g carbs (per serving)
+**Estimated macros (est.):** ~700 cal | 23g protein | 40g fat | 59g carbs (per serving)
 
 ### Ingredients
 - 1 lb fettuccine noodles

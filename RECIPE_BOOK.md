@@ -24,7 +24,7 @@ A collection of our favorite family recipes and stories.
 **Serves/Yield:** 4 servings  
 **Prep time:** 10 min  
 **Cook time:** 5-8 min  
-**Estimated macros:** ~250 cal | 5g protein | 8g fat | 39g carbs (per serving)
+**Estimated macros (est.):** ~250 cal | 5g protein | 8g fat | 39g carbs (per serving)
 
 ### Ingredients
 **Pudding Base**
@@ -59,7 +59,7 @@ A collection of our favorite family recipes and stories.
 **Serves/Yield:** 4 servings  
 **Prep time:** 20 min  
 **Cook time:** 25 min  
-**Estimated macros:** ~760 cal | 55g protein | 28g fat | 67g carbs (per serving)
+**Estimated macros (est.):** ~760 cal | 55g protein | 28g fat | 67g carbs (per serving)
 
 ### Ingredients
 - 2 cups flour
@@ -98,7 +98,7 @@ A collection of our favorite family recipes and stories.
 **Serves/Yield:** About 6 servings  
 **Prep time:** 10 min  
 **Cook time:** 15 min  
-**Estimated macros:** ~700 cal | 23g protein | 40g fat | 59g carbs (per serving)
+**Estimated macros (est.):** ~700 cal | 23g protein | 40g fat | 59g carbs (per serving)
 
 ### Ingredients
 - 1 lb fettuccine noodles
@@ -130,7 +130,7 @@ A collection of our favorite family recipes and stories.
 **Serves/Yield:** 10 servings  
 **Prep time:** 10 min  
 **Cook time:** 3 hours 30 min  
-**Estimated macros:** ~340 cal | 28g protein | 24g fat | 1g carbs (per serving, serves 10)
+**Estimated macros (est.):** ~340 cal | 28g protein | 24g fat | 1g carbs (per serving, serves 10)
 
 ### Ingredients
 - 1 onion
@@ -155,7 +155,7 @@ A collection of our favorite family recipes and stories.
 **Serves/Yield:** 6 servings  
 **Prep time:** 15 min  
 **Cook time:** 30 min  
-**Estimated macros:** ~290 cal | 8g protein | 10g fat | 41g carbs (per serving, serves 6)
+**Estimated macros (est.):** ~290 cal | 8g protein | 10g fat | 41g carbs (per serving, serves 6)
 
 ### Ingredients
 - 1 onion, diced
@@ -188,7 +188,7 @@ A collection of our favorite family recipes and stories.
 **Serves/Yield:** 10-12 servings  
 **Prep time:** 20 min  
 **Cook time:** 45 min  
-**Estimated macros:** ~380 cal | 18g protein | 15g fat | 42g carbs (per serving, serves 12)
+**Estimated macros (est.):** ~380 cal | 18g protein | 15g fat | 42g carbs (per serving, serves 12)
 
 ### Ingredients
 - 2 to 2 1/2 (28 oz) cans pork and beans
@@ -221,7 +221,7 @@ A collection of our favorite family recipes and stories.
 **Serves/Yield:** 6-8 servings (12 to 18 mini cheese breads)  
 **Prep time:** 5 min  
 **Cook time:** 15 min  
-**Estimated macros:** ~100 cal | 2g protein | 5g fat | 12g carbs (per mini bread)
+**Estimated macros (est.):** ~100 cal | 2g protein | 5g fat | 12g carbs (per mini bread)
 
 ### Ingredients
 - 1 large egg, room temperature
@@ -253,7 +253,7 @@ A collection of our favorite family recipes and stories.
 **Serves/Yield:** About 12 side servings  
 **Prep time:** 20 min (+ chill time)  
 **Cook time:** 10 min  
-**Estimated macros:** ~335 cal | 7g protein | 17g fat | 39g carbs (per serving)
+**Estimated macros (est.):** ~335 cal | 7g protein | 17g fat | 39g carbs (per serving)
 
 ### Ingredients
 - 1 lb angel hair pasta
@@ -289,7 +289,7 @@ A collection of our favorite family recipes and stories.
 **Serves/Yield:** About 24 bars  
 **Prep time:** 25 min  
 **Cook time:** 15-20 min
-**Estimated macros:** ~340 cal | 5g protein | 17g fat | 45g carbs (per bar)
+**Estimated macros (est.):** ~340 cal | 5g protein | 17g fat | 45g carbs (per bar)
 
 ### Ingredients
 - 1 cup butter (2 sticks), room temperature
@@ -337,7 +337,7 @@ A collection of our favorite family recipes and stories.
 **Serves/Yield:** 12-14 servings  
 **Prep time:** 30 min + rising  
 **Cook time:** 25-30 min  
-**Estimated macros:** ~284 cal | 6g protein | 13g fat | 37g carbs (per slice)
+**Estimated macros (est.):** ~284 cal | 6g protein | 13g fat | 37g carbs (per slice)
 
 ### Ingredients
 - 1 package (1/4 oz) active dry yeast
@@ -386,7 +386,7 @@ A collection of our favorite family recipes and stories.
 **Serves/Yield:** 6 servings  
 **Prep time:** 10 min  
 **Cook time:** 20 min  
-**Estimated macros:** ~360 cal | 14g protein | 25g fat | 18g carbs (per serving, serves 6)
+**Estimated macros (est.):** ~360 cal | 14g protein | 25g fat | 18g carbs (per serving, serves 6)
 
 ### Ingredients
 - 4 tbsp butter
