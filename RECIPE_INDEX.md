@@ -20,3 +20,4 @@ Add your recipes to the category sections below.
 
 ## Holiday
 - [Lemon Cheese Braid Bread](recipes/holiday/lemon-cheese-braid-bread.md)
+- [Oyster Stew](recipes/holiday/oyster-stew.md)

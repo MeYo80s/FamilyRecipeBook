@@ -9,7 +9,7 @@ A collection of our favorite family recipes and stories.
 | --- | --- |
 | **Breakfast**<br>[1) Pudding Toast](#1-pudding-toast) | **Mains**<br>[2) Chicken Balsamico](#2-chicken-balsamico)<br>[3) Fettuccine Alfredo](#3-fettuccine-alfredo)<br>[4) Mom's Roast](#4-mom-s-roast)<br>[5) Mom's Potato Pea Soup](#5-mom-s-potato-pea-soup) |
 | **Sides**<br>[6) Easy Brazilian Cheese Bread (Pão de Queijo)](#6-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[7) Thai Pasta Salad](#7-thai-pasta-salad) | **Desserts**<br>[8) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#8-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars) |
-| **Holiday**<br>[9) Lemon Cheese Braid Bread](#9-lemon-cheese-braid-bread) |  |
+| **Holiday**<br>[9) Lemon Cheese Braid Bread](#9-lemon-cheese-braid-bread)<br>[10) Oyster Stew](#10-oyster-stew) |  |
 
 ## How to Use This Book
 - Add/edit recipes in `recipes/`.
@@ -340,3 +340,32 @@ A collection of our favorite family recipes and stories.
 
 ### Family Notes
 - I usually make this around Christmas time. Looks fancy.
+
+---
+
+## 10) Oyster Stew
+**Recipe Owner:** Grandma Adair  
+**Serves/Yield:** 8 servings  
+**Prep time:** 10 min  
+**Cook time:** 20 min  
+**Estimated macros:** Not calculated
+
+### Ingredients
+- 6 oz butter (3/4 cup)
+- 3 cups flour
+- 4 cups half-and-half, plus more if needed
+- 2 (10-oz) cans oysters, with juice
+- Salt, to taste
+- White pepper, to taste
+- Optional: 4 tbsp dried onion (about 1 cup fresh onion)
+
+### Instructions
+1. Melt butter in a large pot over medium heat.
+2. Whisk in flour and cook for a few minutes to form a smooth roux.
+3. Slowly whisk in half-and-half and cook until thickened into a white sauce.
+4. Add oysters and their juice. Heat gently until warmed through; do not boil.
+5. Season with salt and white pepper. Add dried onion if using, and add more half-and-half if you prefer a thinner stew.
+
+### Family Notes
+- We had this every New Year's Eve at Grandma's house. Mom said Cora Lee (my great grandmother) used to buy a can of oysters each month so she could make this on New Year's.
+- Buy oysters early.
