@@ -8,8 +8,8 @@ A collection of our favorite family recipes and stories.
 | Category | Category |
 | --- | --- |
 | **Breakfast**<br>[1) Pudding Toast](#1-pudding-toast) | **Mains**<br>[2) Chicken Balsamico](#2-chicken-balsamico)<br>[3) Fettuccine Alfredo](#3-fettuccine-alfredo)<br>[4) Hamburger Rice](#4-hamburger-rice)<br>[5) Mom's Roast](#5-moms-roast)<br>[6) Mom's Potato Pea Soup](#6-moms-potato-pea-soup)<br>[7) Tasty Beans (Grandpa Adair)](#7-tasty-beans-grandpa-adair) |
-| **Sides**<br>[8) Easy Brazilian Cheese Bread (Pão de Queijo)](#8-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[9) Jessica's Spinach Salad](#9-jessicas-spinach-salad)<br>[10) Thai Pasta Salad](#10-thai-pasta-salad) | **Desserts**<br>[11) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#11-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)<br>[12) Heather's Chocolate Chip Bundt Cake](#12-heathers-chocolate-chip-bundt-cake)<br>[13) Mom's Italian Cream Cake](#13-moms-italian-cream-cake)<br>[14) Mochi Butter Cake](#14-mochi-butter-cake) |
-| **Holiday**<br>[15) Lemon Cheese Braid Bread](#15-lemon-cheese-braid-bread)<br>[16) Oyster Stew](#16-oyster-stew) |  |
+| **Sides**<br>[8) Easy Brazilian Cheese Bread (Pão de Queijo)](#8-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[9) Jessica's Spinach Salad](#9-jessicas-spinach-salad)<br>[10) Thai Pasta Salad](#10-thai-pasta-salad) | **Desserts**<br>[11) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#11-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)<br>[12) Heather's Chocolate Chip Bundt Cake](#12-heathers-chocolate-chip-bundt-cake)<br>[13) Ina Garten Style Old-Fashioned Apple Crisp](#13-ina-garten-style-old-fashioned-apple-crisp)<br>[14) Mom's Italian Cream Cake](#14-moms-italian-cream-cake)<br>[15) Mochi Butter Cake](#15-mochi-butter-cake) |
+| **Holiday**<br>[16) Lemon Cheese Braid Bread](#16-lemon-cheese-braid-bread)<br>[17) Oyster Stew](#17-oyster-stew) |  |
 
 ## How to Use This Book
 - Add/edit recipes in `recipes/`.
@@ -429,7 +429,45 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 13) Mom's Italian Cream Cake
+## 13) Ina Garten Style Old-Fashioned Apple Crisp
+**Recipe Owner:** Kristine  
+**Serves/Yield:** 10-12 servings  
+**Prep time:** 25 min  
+**Cook time:** 60 min  
+**Estimated macros (est.):** ~430 cal | 3g protein | 18g fat | 67g carbs (per serving, serves 12)
+
+### Ingredients
+**Apple Filling**
+- 5 lb McIntosh or Macoun apples, peeled, cored, and cut into large wedges
+- Zest of 1 orange
+- Zest of 1 lemon
+- 2 tbsp freshly squeezed orange juice
+- 2 tbsp freshly squeezed lemon juice
+- 1/2 cup granulated sugar
+- 2 tsp ground cinnamon
+- 1 tsp ground nutmeg
+
+**Topping**
+- 1 1/2 cups flour
+- 3/4 cup granulated sugar
+- 3/4 cup light brown sugar, packed
+- 1/2 tsp kosher salt
+- 1 cup oatmeal
+- 1/2 lb cold unsalted butter, diced
+
+### Instructions
+1. Heat oven to 350°F. Butter a 9 x 14 x 2-inch oval baking dish.
+2. Combine apples with zests, juices, sugar, cinnamon, and nutmeg. Pour into the dish.
+3. Make the topping: combine flour, sugars, salt, oatmeal, and cold butter. Mix on low speed (or with a pastry cutter) until crumbly and butter is pea-sized.
+4. Scatter topping evenly over the apples.
+5. Bake on a sheet pan for about 1 hour, until the top is browned and the apples are bubbly. Serve warm.
+
+### Family Notes
+- This recipe is for people like me that can't seem to make a good pie crust. :)
+
+---
+
+## 14) Mom's Italian Cream Cake
 **Recipe Owner:** Kathy Adair  
 **Serves/Yield:** 24 slices  
 **Prep time:** 25 min  
@@ -472,7 +510,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 14) Mochi Butter Cake
+## 15) Mochi Butter Cake
 **Recipe Owner:** Kristine  
 **Serves/Yield:** 24 squares  
 **Prep time:** 15 min  
@@ -504,7 +542,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 15) Lemon Cheese Braid Bread
+## 16) Lemon Cheese Braid Bread
 ![Lemon Cheese Braid Bread](assets/recipes/lemon-cheese-braid-bread.png)
 
 **Recipe Owner:** Kristine  
@@ -553,7 +591,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 16) Oyster Stew
+## 17) Oyster Stew
 ![Oyster Stew](assets/recipes/new-year-oyster-stew.png)
 
 **Recipe Owner:** Grandma Adair  

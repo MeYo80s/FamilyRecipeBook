@@ -21,6 +21,7 @@ Add your recipes to the category sections below.
 ## Desserts
 - [Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](recipes/desserts/chocolate-frosted-peanut-butter-cookie-bars.md)
 - [Heather's Chocolate Chip Bundt Cake](recipes/desserts/heathers-chocolate-chip-bundt-cake.md)
+- [Ina Garten Style Old-Fashioned Apple Crisp](recipes/desserts/ina-garten-apple-crisp.md)
 - [Mom's Italian Cream Cake](recipes/desserts/moms-italian-cream-cake.md)
 - [Mochi Butter Cake](recipes/desserts/mochi-butter-cake.md)
 
