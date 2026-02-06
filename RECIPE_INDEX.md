@@ -16,6 +16,7 @@ Add your recipes to the category sections below.
 ## Sides
 - [Easy Brazilian Cheese Bread (Pão de Queijo)](recipes/sides/easy-brazilian-cheese-bread-pao-de-queijo.md)
 - [Classic Sourdough Bread](recipes/sides/classic-sourdough-bread.md)
+- [Hayes' Bean Dip](recipes/sides/hayes-bean-dip.md)
 - [Jessica's Spinach Salad](recipes/sides/jessicas-spinach-salad.md)
 - [Thai Pasta Salad](recipes/sides/thai-pasta-salad.md)
 
