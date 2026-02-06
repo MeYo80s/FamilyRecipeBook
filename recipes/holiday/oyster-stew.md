@@ -3,19 +3,19 @@
 ![Oyster Stew](../../assets/recipes/new-year-oyster-stew.png)
 
 **Recipe Owner:** Grandma Adair  
-**Serves/Yield:** 8 servings  
+**Serves/Yield:** 6 servings  
 **Prep time:** 10 min  
 **Cook time:** 20 min  
-**Estimated macros:** ~540 cal | 16g protein | 33g fat | 42g carbs (per serving, serves 8)
+**Estimated macros:** ~360 cal | 14g protein | 25g fat | 18g carbs (per serving, serves 6)
 
 ### Ingredients
-- 6 oz butter (3/4 cup)
-- 3 cups flour
+- 4 tbsp butter
+- 1/4 cup flour
 - 4 cups half-and-half, plus more if needed
 - 2 (10-oz) cans oysters, with juice
 - Salt, to taste
 - White pepper, to taste
-- Optional: 4 tbsp dried onion (about 1 cup fresh onion)
+- Optional: 2 tbsp dried onion (about 1/2 cup fresh onion)
 
 ### Instructions
 1. Melt butter in a large pot over medium heat.
