@@ -14,6 +14,7 @@ A clean starter for documenting family favorite recipes (no meal-plan or shoppin
 1. Copy `templates/recipe-template.md` to a new file under `recipes/...`.
 2. Add a link to the recipe in `RECIPE_INDEX.md`.
 3. Run: `python3 scripts/generate_recipe_book.py`
+4. Watch the [How to Add a Recipe video](https://youtu.be/ikExgXvNtG8).
 
 ## Optional: create a new git repo
 - `git init`

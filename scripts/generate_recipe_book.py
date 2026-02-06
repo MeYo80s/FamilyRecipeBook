@@ -115,6 +115,7 @@ def main() -> None:
         "## How to Use This Book",
         "- Add/edit recipes in `recipes/`.",
         "- Keep `RECIPE_INDEX.md` updated with links to each recipe.",
+        "- Watch the [How to Add a Recipe video](https://youtu.be/ikExgXvNtG8).",
         "- Regenerate this file with `python3 scripts/generate_recipe_book.py`.",
         "",
         "---",
