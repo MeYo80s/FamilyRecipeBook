@@ -371,3 +371,4 @@ A collection of our favorite family recipes and stories.
 ### Family Notes
 - We had this every New Year's Eve at Grandma's house. Mom said Cora Lee (my great grandmother) used to buy a can of oysters each month so she could make this on New Year's.
 - Buy oysters early.
+- Quantities have been dialed back for a smaller batch.
