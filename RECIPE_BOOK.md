@@ -8,7 +8,7 @@ A collection of our favorite family recipes and stories.
 | Category | Category |
 | --- | --- |
 | **Breakfast**<br>[1) Pudding Toast](#1-pudding-toast) | **Mains**<br>[2) Chicken Balsamico](#2-chicken-balsamico)<br>[3) Fettuccine Alfredo](#3-fettuccine-alfredo)<br>[4) Hamburger Rice](#4-hamburger-rice)<br>[5) Mom's Roast](#5-moms-roast)<br>[6) Mom's Potato Pea Soup](#6-moms-potato-pea-soup)<br>[7) Tasty Beans (Grandpa Adair)](#7-tasty-beans-grandpa-adair) |
-| **Sides**<br>[8) Easy Brazilian Cheese Bread (Pão de Queijo)](#8-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[9) Jessica's Spinach Salad](#9-jessicas-spinach-salad)<br>[10) Thai Pasta Salad](#10-thai-pasta-salad) | **Desserts**<br>[11) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#11-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)<br>[12) Chocolate Chip Oatmeal Cookies](#12-chocolate-chip-oatmeal-cookies)<br>[13) Grandma Kartchner Molasses Cookies](#13-grandma-kartchner-molasses-cookies)<br>[14) Heather's Chocolate Chip Bundt Cake](#14-heathers-chocolate-chip-bundt-cake)<br>[15) Ina Garten Style Old-Fashioned Apple Crisp](#15-ina-garten-style-old-fashioned-apple-crisp)<br>[16) Mom's Italian Cream Cake](#16-moms-italian-cream-cake)<br>[17) Mochi Butter Cake](#17-mochi-butter-cake)<br>[18) Peanut Butter Balls (You Can Eat the Dough)](#18-peanut-butter-balls-you-can-eat-the-dough) |
+| **Sides**<br>[8) Easy Brazilian Cheese Bread (Pão de Queijo)](#8-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[9) Jessica's Spinach Salad](#9-jessicas-spinach-salad)<br>[10) Thai Pasta Salad](#10-thai-pasta-salad) | **Desserts**<br>[11) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#11-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)<br>[12) Chocolate Chip Oatmeal Cookies](#12-chocolate-chip-oatmeal-cookies)<br>[13) Grandma Kartchner Molasses Cookies](#13-grandma-kartchner-molasses-cookies)<br>[14) Heather's Chocolate Chip Bundt Cake](#14-heathers-chocolate-chip-bundt-cake)<br>[15) Ina Garten Style Old-Fashioned Apple Crisp](#15-ina-garten-style-old-fashioned-apple-crisp)<br>[16) Mom's Italian Cream Cake](#16-moms-italian-cream-cake)<br>[17) Mochi Butter Cake](#17-mochi-butter-cake)<br>[18) Peanut Butter Balls (You Can Eat It Dough)](#18-peanut-butter-balls-you-can-eat-it-dough) |
 | **Holiday**<br>[19) Lemon Cheese Braid Bread](#19-lemon-cheese-braid-bread)<br>[20) Oyster Stew](#20-oyster-stew) |  |
 
 ## How to Use This Book
@@ -610,8 +610,8 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 18) Peanut Butter Balls (You Can Eat the Dough)
-![Peanut Butter Balls (You Can Eat the Dough)](assets/recipes/you-can-eat-it-dough.png)
+## 18) Peanut Butter Balls (You Can Eat It Dough)
+![Peanut Butter Balls (You Can Eat It Dough)](assets/recipes/you-can-eat-it-dough.png)
 
 **Recipe Owner:** Grandma Marjorie Adair  
 **Serves/Yield:** About 36 balls  

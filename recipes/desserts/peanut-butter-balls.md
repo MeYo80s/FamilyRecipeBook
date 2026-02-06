@@ -1,6 +1,6 @@
-# Peanut Butter Balls (You Can Eat the Dough)
+# Peanut Butter Balls (You Can Eat It Dough)
 
-![Peanut Butter Balls (You Can Eat the Dough)](../../assets/recipes/you-can-eat-it-dough.png)
+![Peanut Butter Balls (You Can Eat It Dough)](../../assets/recipes/you-can-eat-it-dough.png)
 
 **Recipe Owner:** Grandma Marjorie Adair  
 **Serves/Yield:** About 36 balls  
