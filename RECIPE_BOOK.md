@@ -8,8 +8,8 @@ A collection of our favorite family recipes and stories.
 | Category | Category |
 | --- | --- |
 | **Breakfast**<br>[1) Pudding Toast](#1-pudding-toast) | **Mains**<br>[2) Chicken Balsamico](#2-chicken-balsamico)<br>[3) Fettuccine Alfredo](#3-fettuccine-alfredo)<br>[4) Mom's Roast](#4-mom-s-roast)<br>[5) Mom's Potato Pea Soup](#5-mom-s-potato-pea-soup)<br>[6) Tasty Beans (Grandpa Adair)](#6-tasty-beans-grandpa-adair) |
-| **Sides**<br>[7) Easy Brazilian Cheese Bread (Pão de Queijo)](#7-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[8) Thai Pasta Salad](#8-thai-pasta-salad) | **Desserts**<br>[9) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#9-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars) |
-| **Holiday**<br>[10) Lemon Cheese Braid Bread](#10-lemon-cheese-braid-bread)<br>[11) Oyster Stew](#11-oyster-stew) |  |
+| **Sides**<br>[7) Easy Brazilian Cheese Bread (Pão de Queijo)](#7-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[8) Jessica's Spinach Salad](#8-jessica-s-spinach-salad)<br>[9) Thai Pasta Salad](#9-thai-pasta-salad) | **Desserts**<br>[10) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#10-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars) |
+| **Holiday**<br>[11) Lemon Cheese Braid Bread](#11-lemon-cheese-braid-bread)<br>[12) Oyster Stew](#12-oyster-stew) |  |
 
 ## How to Use This Book
 - Add/edit recipes in `recipes/`.
@@ -246,7 +246,45 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 8) Thai Pasta Salad
+## 8) Jessica's Spinach Salad
+**Recipe Owner:** Jessica Cooley  
+**Serves/Yield:** 8-10 servings  
+**Prep time:** 20 min  
+**Cook time:** 0 min  
+**Estimated macros (est.):** ~360 cal | 11g protein | 26g fat | 24g carbs (per serving, serves 10)
+
+### Ingredients
+**Dressing**
+- 1 cup oil (canola or olive)
+- 1/2 cup sugar
+- 1/2 cup vinegar
+- 1/2 tsp dry mustard
+- 1 tsp salt
+- 1 tsp grated onion
+
+**Salad**
+- 1 package spinach
+- 1 package romaine
+- 2 cups Swiss cheese, shredded or cubed
+- 1 cup sliced mushrooms
+- 1/2 cup purple onion, thinly sliced
+- 1 cup crumbled bacon
+- 1 package craisins (or diced apples)
+
+### Instructions
+1. Whisk dressing ingredients until the sugar dissolves; set aside.
+2. In a large bowl, combine spinach, romaine, Swiss cheese, mushrooms, purple onion, bacon, and craisins.
+3. Toss with dressing just before serving.
+
+### Family Notes
+- Jessica made this on her mission and shared it when she returned home.
+- Spinach pairs well with the stronger ingredients in this salad.
+- Diced apples can be used instead of craisins.
+- Canola oil tastes best, but olive oil works too.
+
+---
+
+## 9) Thai Pasta Salad
 ![Thai Pasta Salad](assets/recipes/thai-pasta-salad.png)
 
 **Recipe Owner:** Jessica and B Cooley  
@@ -282,7 +320,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 9) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
+## 10) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)
 ![Chocolate-Frosted Peanut Butter Cookie Bars](assets/recipes/chocolate-frosted-peanut-butter-cookie-bars.png)
 
 **Recipe Owner:** Kristine  
@@ -330,7 +368,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 10) Lemon Cheese Braid Bread
+## 11) Lemon Cheese Braid Bread
 ![Lemon Cheese Braid Bread](assets/recipes/lemon-cheese-braid-bread.png)
 
 **Recipe Owner:** Kristine  
@@ -379,7 +417,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 11) Oyster Stew
+## 12) Oyster Stew
 ![Oyster Stew](assets/recipes/new-year-oyster-stew.png)
 
 **Recipe Owner:** Grandma Adair  
