@@ -4,6 +4,7 @@ Add your recipes to the category sections below.
 
 ## Breakfast
 - [German Pancakes](recipes/breakfast/german-pancakes.md)
+- [Mom's Buttermilk Waffles](recipes/breakfast/moms-buttermilk-waffles.md)
 - [Pudding Toast](recipes/breakfast/pudding-toast.md)
 
 ## Mains
@@ -24,6 +25,8 @@ Add your recipes to the category sections below.
 ## Desserts
 - [Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](recipes/desserts/chocolate-frosted-peanut-butter-cookie-bars.md)
 - [Chocolate Chip Oatmeal Cookies](recipes/desserts/chocolate-chip-oatmeal-cookies.md)
+- [Tasha's Key Lime Pie](recipes/desserts/tashas-key-lime-pie.md)
+- [The Best Chocolate Sheet Cake Ever](recipes/desserts/best-chocolate-sheet-cake-ever.md)
 - [Grandma Kartchner Molasses Cookies](recipes/desserts/grandma-kartchner-molasses-cookies.md)
 - [Heather's Chocolate Chip Bundt Cake](recipes/desserts/heathers-chocolate-chip-bundt-cake.md)
 - [Ina Garten Style Old-Fashioned Apple Crisp](recipes/desserts/ina-garten-apple-crisp.md)
