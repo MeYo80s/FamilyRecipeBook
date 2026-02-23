@@ -170,7 +170,7 @@ A collection of our favorite family recipes and stories.
 5. Pour warm butter-cream mixture into the bowl.
 6. Add hot drained pasta and toss a couple of times.
 7. Sprinkle in remaining Parmesan and toss to combine.
-8. If needed, thin with a little reserved pasta water.
+8. If the sauce looks too thick, add a splash of the reserved pasta water to loosen it until silky.
 9. Serve immediately.
 
 ### Family Notes
