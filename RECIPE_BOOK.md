@@ -163,7 +163,7 @@ A collection of our favorite family recipes and stories.
 - 2 cups freshly grated Parmesan
 
 ### Instructions
-1. Cook fettuccine according to package directions. Drain.
+1. Bring a large pot of well-salted water to a boil. Cook fettuccine according to package directions. Reserve about 1/2 cup pasta water, then drain.
 2. In a saucepan or skillet over low heat, warm butter and heavy cream.
 3. Season with salt and black pepper.
 4. Put half of the Parmesan in a large serving bowl.
