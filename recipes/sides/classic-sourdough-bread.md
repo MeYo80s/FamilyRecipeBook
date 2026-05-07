@@ -37,8 +37,12 @@
 ### Family Notes
 - I took this sourdough class with my sister-in-law Lindy.
 - I use all-purpose flour to feed the starter, but bread flour for the dough.
+- You only need a small amount of starter to maintain it, about 1 inch up the side of a wide-mouth mason jar.
+- I keep my starter in the fridge and feed it about 1/4 cup each week if I am not baking with it.
+- After adding starter to the dough, I usually feed the jar with about 1/4 cup flour and water before putting it back in the fridge. I think of it like feeding your kid before bedtime so it does not get hungry right away.
 - I often skip the stretch-and-fold step and do not notice much difference either way.
 - For the second rise, I usually refrigerate the loaves for at least 24 hours. After that, I score and bake them, usually after about 1 hour on the counter.
+- I have also used this recipe for pizza dough. Use about 200 g dough per dough ball for a 12-inch pizza.
 - You can bake in whatever vessel you have. Glass bread pans with another glass bread pan inverted on top work well.
 - This recipe works well in a 4-5 quart Dutch oven.
 - You can reuse parchment paper 3-4 times if you want.
