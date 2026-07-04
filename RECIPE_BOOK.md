@@ -562,6 +562,8 @@ A collection of our favorite family recipes and stories.
 ---
 
 ## 17) Crazy Cake
+![Crazy Cake](assets/recipes/crazy-cake.png)
+
 **Recipe Owner:** Jason's mom  
 **Serves/Yield:** 9x13-inch cake, about 15 slices  
 **Prep time:** 15 min  
