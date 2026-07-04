@@ -8,8 +8,8 @@ A collection of our favorite family recipes and stories.
 | Category | Category |
 | --- | --- |
 | **Breakfast**<br>[1) German Pancakes](#1-german-pancakes)<br>[2) Mom's Buttermilk Waffles](#2-moms-buttermilk-waffles)<br>[3) Pudding Toast](#3-pudding-toast) | **Mains**<br>[4) Chicken Balsamico](#4-chicken-balsamico)<br>[5) Fettuccine Alfredo](#5-fettuccine-alfredo)<br>[6) Hamburger Rice](#6-hamburger-rice)<br>[7) Mom's Roast](#7-moms-roast)<br>[8) Mom's Potato Pea Soup](#8-moms-potato-pea-soup)<br>[9) Tasty Beans (Grandpa Adair)](#9-tasty-beans-grandpa-adair) |
-| **Sides**<br>[10) Easy Brazilian Cheese Bread (Pão de Queijo)](#10-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[11) Classic Sourdough Bread](#11-classic-sourdough-bread)<br>[12) Hayes' Bean Dip](#12-hayes-bean-dip)<br>[13) Jessica's Spinach Salad](#13-jessicas-spinach-salad)<br>[14) Thai Pasta Salad](#14-thai-pasta-salad) | **Desserts**<br>[15) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#15-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)<br>[16) Chocolate Chip Oatmeal Cookies](#16-chocolate-chip-oatmeal-cookies)<br>[17) Kim's Fried Scones](#17-kims-fried-scones)<br>[18) Nate's Mom Barb's Sour Cream Banana Cake](#18-nates-mom-barbs-sour-cream-banana-cake)<br>[19) Tasha's Key Lime Pie](#19-tashas-key-lime-pie)<br>[20) The Best Chocolate Sheet Cake Ever](#20-the-best-chocolate-sheet-cake-ever)<br>[21) Grandma Kartchner Molasses Cookies](#21-grandma-kartchner-molasses-cookies)<br>[22) Heather's Chocolate Chip Bundt Cake](#22-heathers-chocolate-chip-bundt-cake)<br>[23) Ina Garten Style Old-Fashioned Apple Crisp](#23-ina-garten-style-old-fashioned-apple-crisp)<br>[24) Mom's Italian Cream Cake](#24-moms-italian-cream-cake)<br>[25) Mochi Butter Cake](#25-mochi-butter-cake)<br>[26) Peanut Butter Balls (You Can Eat It Dough)](#26-peanut-butter-balls-you-can-eat-it-dough) |
-| **Holiday**<br>[27) Lemon Cheese Braid Bread](#27-lemon-cheese-braid-bread)<br>[28) Oyster Stew](#28-oyster-stew) |  |
+| **Sides**<br>[10) Easy Brazilian Cheese Bread (Pão de Queijo)](#10-easy-brazilian-cheese-bread-p-o-de-queijo)<br>[11) Classic Sourdough Bread](#11-classic-sourdough-bread)<br>[12) Hayes' Bean Dip](#12-hayes-bean-dip)<br>[13) Jessica's Spinach Salad](#13-jessicas-spinach-salad)<br>[14) Thai Pasta Salad](#14-thai-pasta-salad) | **Desserts**<br>[15) Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](#15-chocolate-frosted-peanut-butter-cookie-bars-lunch-lady-peanut-butter-bars)<br>[16) Chocolate Chip Oatmeal Cookies](#16-chocolate-chip-oatmeal-cookies)<br>[17) Crazy Cake](#17-crazy-cake)<br>[18) Kim's Fried Scones](#18-kims-fried-scones)<br>[19) Nate's Mom Barb's Sour Cream Banana Cake](#19-nates-mom-barbs-sour-cream-banana-cake)<br>[20) Tasha's Key Lime Pie](#20-tashas-key-lime-pie)<br>[21) The Best Chocolate Sheet Cake Ever](#21-the-best-chocolate-sheet-cake-ever)<br>[22) Grandma Kartchner Molasses Cookies](#22-grandma-kartchner-molasses-cookies)<br>[23) Heather's Chocolate Chip Bundt Cake](#23-heathers-chocolate-chip-bundt-cake)<br>[24) Ina Garten Style Old-Fashioned Apple Crisp](#24-ina-garten-style-old-fashioned-apple-crisp)<br>[25) Mom's Italian Cream Cake](#25-moms-italian-cream-cake)<br>[26) Mochi Butter Cake](#26-mochi-butter-cake)<br>[27) Peanut Butter Balls (You Can Eat It Dough)](#27-peanut-butter-balls-you-can-eat-it-dough) |
+| **Holiday**<br>[28) Lemon Cheese Braid Bread](#28-lemon-cheese-braid-bread)<br>[29) Oyster Stew](#29-oyster-stew) |  |
 
 ## How to Use This Book
 - Add/edit recipes in `recipes/`.
@@ -561,7 +561,46 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 17) Kim's Fried Scones
+## 17) Crazy Cake
+**Recipe Owner:** Jason's mom  
+**Serves/Yield:** 9x13-inch cake, about 15 slices  
+**Prep time:** 15 min  
+**Cook time:** 30-35 min  
+**Estimated macros (est.):** ~370 cal | 4g protein | 12g fat | 63g carbs (per slice, about 15 slices)
+
+### Ingredients
+- 3 cups flour
+- 1 tsp salt
+- 2 cups sugar
+- 1/3 cup cocoa powder
+- 2 tsp baking soda
+- 2/3 cup vegetable oil
+- 2 Tbsp apple cider vinegar
+- 2 cups cold water
+
+### Fudge Frosting
+- 2 cups powdered sugar
+- 1/4 cup cocoa powder
+- 1/8 tsp table salt
+- 2 Tbsp plus 2 tsp butter, softened
+- 2 Tbsp plus 2 tsp boiling water
+- 1/2 tsp vanilla extract
+
+### Instructions
+1. Heat oven to 375°F. Grease a 9x13-inch pan.
+2. Sift together flour, salt, sugar, cocoa powder, and baking soda.
+3. Add vegetable oil, apple cider vinegar, and cold water. Mix well.
+4. Pour into prepared pan and bake 30-35 minutes, until the center is set and a toothpick comes out clean.
+5. Let cake cool before frosting.
+6. For the frosting, beat powdered sugar, cocoa powder, salt, softened butter, boiling water, and vanilla until smooth and spreadable. Spread over cooled cake.
+
+### Family Notes
+- Jason's mom used to make this for him when he was a kid, and it is his favorite birthday cake.
+- From what I understand, she usually did not frost it. I use a half batch of the fudge frosting from the peanut butter bars recipe.
+
+---
+
+## 18) Kim's Fried Scones
 **Recipe Owner:** Kim  
 **Serves/Yield:** About 24 scones (3-inch squares)  
 **Prep time:** 20 min (plus 1 hour chill)  
@@ -599,7 +638,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 18) Nate's Mom Barb's Sour Cream Banana Cake
+## 19) Nate's Mom Barb's Sour Cream Banana Cake
 **Recipe Owner:** Nate's Mom Barb  
 **Serves/Yield:** 9x13-inch cake, about 15 slices  
 **Prep time:** 20 min  
@@ -639,7 +678,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 19) Tasha's Key Lime Pie
+## 20) Tasha's Key Lime Pie
 **Recipe Owner:** Tasha  
 **Serves/Yield:** 1 (9-inch) pie, about 10 slices  
 **Prep time:** 20 min  
@@ -676,7 +715,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 20) The Best Chocolate Sheet Cake Ever
+## 21) The Best Chocolate Sheet Cake Ever
 **Recipe Owner:** Jessica  
 **Serves/Yield:** 18-by-13-inch sheet cake (about 24 squares)  
 **Prep time:** 15 min  
@@ -716,7 +755,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 21) Grandma Kartchner Molasses Cookies
+## 22) Grandma Kartchner Molasses Cookies
 **Recipe Owner:** Grandma Kartchner  
 **Serves/Yield:** About 6 dozen cookies  
 **Prep time:** 20 min  
@@ -752,7 +791,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 22) Heather's Chocolate Chip Bundt Cake
+## 23) Heather's Chocolate Chip Bundt Cake
 **Recipe Owner:** Heather  
 **Serves/Yield:** 12-14 servings  
 **Prep time:** 15 min  
@@ -784,7 +823,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 23) Ina Garten Style Old-Fashioned Apple Crisp
+## 24) Ina Garten Style Old-Fashioned Apple Crisp
 **Recipe Owner:** Kristine  
 **Serves/Yield:** 10-12 servings  
 **Prep time:** 25 min  
@@ -822,7 +861,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 24) Mom's Italian Cream Cake
+## 25) Mom's Italian Cream Cake
 **Recipe Owner:** Kathy Adair  
 **Serves/Yield:** 24 slices  
 **Prep time:** 25 min  
@@ -865,7 +904,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 25) Mochi Butter Cake
+## 26) Mochi Butter Cake
 **Recipe Owner:** Kristine  
 **Serves/Yield:** 24 squares  
 **Prep time:** 15 min  
@@ -897,7 +936,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 26) Peanut Butter Balls (You Can Eat It Dough)
+## 27) Peanut Butter Balls (You Can Eat It Dough)
 ![Peanut Butter Balls (You Can Eat It Dough)](assets/recipes/you-can-eat-it-dough.png)
 
 **Recipe Owner:** Grandma Marjorie Adair  
@@ -923,7 +962,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 27) Lemon Cheese Braid Bread
+## 28) Lemon Cheese Braid Bread
 ![Lemon Cheese Braid Bread](assets/recipes/lemon-cheese-braid-bread.png)
 
 **Recipe Owner:** Kristine  
@@ -972,7 +1011,7 @@ A collection of our favorite family recipes and stories.
 
 ---
 
-## 28) Oyster Stew
+## 29) Oyster Stew
 ![Oyster Stew](assets/recipes/new-year-oyster-stew.png)
 
 **Recipe Owner:** Grandma Adair  

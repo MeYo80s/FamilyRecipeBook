@@ -25,6 +25,7 @@ Add your recipes to the category sections below.
 ## Desserts
 - [Chocolate-Frosted Peanut Butter Cookie Bars (Lunch Lady Peanut Butter Bars)](recipes/desserts/chocolate-frosted-peanut-butter-cookie-bars.md)
 - [Chocolate Chip Oatmeal Cookies](recipes/desserts/chocolate-chip-oatmeal-cookies.md)
+- [Crazy Cake](recipes/desserts/crazy-cake.md)
 - [Kim's Fried Scones](recipes/desserts/kims-fried-scones.md)
 - [Nate's Mom Barb's Sour Cream Banana Cake](recipes/desserts/nates-mom-barbs-sour-cream-banana-cake.md)
 - [Tasha's Key Lime Pie](recipes/desserts/tashas-key-lime-pie.md)
